@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 import LetterPage from '../views/LetterPage.vue'
 import GrammarPage from '../views/GrammarPage.vue'
-import Home from '../views/Home.vue'
+// import Home from '../views/Home.vue'
 import Declension from '../views/Declension.vue' 
 import vocabulary from '../views/Vocabulary.vue'
 import Vocab_noun from '../views/Vocabulary_noun.vue'
@@ -13,7 +13,7 @@ import Vocab_pronoun from '../views/Vocabulary_pronoun.vue'
 
 
 const routes = [
-  { path: '/', component: Home },
+  // { path: '/', component: Home },
   { path: '/letter', component: LetterPage },
   { path: '/grammar', component: GrammarPage },
   { path: '/declension', component: Declension},
