@@ -4,8 +4,8 @@ import LetterPage from '../views/LetterPage.vue'
 import GrammarPage from '../views/GrammarPage.vue'
 import Home from '../views/Home.vue'
 import Declension from '../views/Declension.vue' 
-import Vocabrary from '../views/Vocabrary.vue'
-import Vocab_noun from '../views/Vocabrary_noun.vue'
+import vocabulary from '../views/Vocabulary.vue'
+import Vocab_noun from '../views/Vocabulary_noun.vue'
 
 
 const routes = [
@@ -13,7 +13,8 @@ const routes = [
   { path: '/letter', component: LetterPage },
   { path: '/grammar', component: GrammarPage },
   { path: '/declension', component: Declension},
-  { path: '/vocabrary', component: Vocabrary}
+  { path: '/vocabulary', component: vocabulary},
+  { path: '/vocabulary/noun', component: Vocab_noun } 
 ]
 
 const router = createRouter({

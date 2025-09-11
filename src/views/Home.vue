@@ -23,9 +23,9 @@
       </router-link>
     </div>
     <div class="button-grid">
-      <router-link to="/vocabrary"class="category-button">
+      <router-link to="/vocabulary"class="category-button">
         <!-- <img src="/src/assets/letter.jpg" alt="Letter" class="button-image" /> -->
-        <span class="button-text">Vocabrary</span>
+        <span class="button-text">Vocabulary</span>
       </router-link>
     </div>
   </div>
