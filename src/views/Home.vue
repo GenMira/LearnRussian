@@ -1,8 +1,10 @@
 <template>
   <div class="introduction">
     <p>
-      初学者向けのロシア語学習サイトです
-      ロシア語はただでさえ学習資料が少ないので、これがあなたのロシア語学習の手助けになりますように
+      初学者向けのロシア語学習サイトです。
+    </p>
+    <p>
+      ロシア語はただでさえ学習資料が少ないので、これがあなたのロシア語学習の手助けになりますように。
     </p>
   </div>
   <div class="buttons">
@@ -35,12 +37,12 @@
 
 .introduction{
   margin-top: 10vh;
+  text-align: center;
 
 }
 
 .buttons{
-  /* height: 100vh;             画面全体の高さに中央配置 */
-  margin-top: 20vh;
+  margin-top: 15vh;
 }
 
 .button-grid {
