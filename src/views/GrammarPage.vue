@@ -1,0 +1,32 @@
+<template>
+  <div>
+    <h1>Grammar Page</h1>
+    <p>ここには文法に関するコンテンツを表示します。</p>
+  </div>
+  <div>
+    <div>
+      <p>肯定文</p>
+    </div>
+    <div>
+      <p>疑問文</p>
+    </div>
+    <div>
+      <p>名詞の性と数</p>
+    </div>
+    <div>
+      <p>ざっくりと格変化</p>
+    </div>
+    <div>
+      <p>現在形</p>
+    </div>
+    <div>
+      <p>過去形</p>
+    </div>
+    <div>
+      <p>未来形</p>
+    </div>
+    <div>
+      <p>格変化</p>
+    </div>
+  </div>
+</template>

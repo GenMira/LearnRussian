@@ -1,0 +1,22 @@
+<template>
+  <div>
+    <h1>Declention Page</h1>
+    <p>ここには格変化に関するコンテンツをまとめます。</p>
+  </div>
+  <div>
+    <p>人称代名詞</p>
+    <p>固有名詞</p>
+  </div>
+  <div>
+    <p>疑問詞</p>
+  </div>
+  <div>
+    <p>動詞</p>
+  </div>
+  <div>
+    <p>名詞</p>
+  </div>
+  <div>
+    <p>形容詞</p>
+  </div>
+</template>
