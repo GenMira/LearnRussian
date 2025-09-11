@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 import LetterPage from '../views/LetterPage.vue'
 import GrammarPage from '../views/GrammarPage.vue'
-// import Home from '../views/Home.vue'
+import Home from '../views/Home.vue'
 import Declension from '../views/Declension.vue' 
 import vocabulary from '../views/Vocabulary.vue'
 import Vocab_noun from '../views/Vocabulary_noun.vue'
@@ -13,16 +13,16 @@ import Vocab_pronoun from '../views/Vocabulary_pronoun.vue'
 
 
 const routes = [
-  // { path: '/', component: Home },
-  { path: '/letter', component: LetterPage },
-  { path: '/grammar', component: GrammarPage },
-  { path: '/declension', component: Declension},
-  { path: '/vocabulary', component: vocabulary},
-  { path: '/vocabulary/noun', component: Vocab_noun },
-  { path: '/vocabulary/verb', component: Vocab_verb },
-  { path: '/vocabulary/adjective', component: Vocab_adjective },
-  { path: '/vocabulary/preposition', component: Vocab_preposition },
-  { path: '/vocabulary/pronoun', component: Vocab_pronoun }
+  { path: '/LearnRussian/', component: Home },
+  { path: '/LearnRussian/letter', component: LetterPage },
+  { path: '/LearnRussian/grammar', component: GrammarPage },
+  { path: '/LearnRussian/declension', component: Declension},
+  { path: '/LearnRussian/vocabulary', component: vocabulary},
+  { path: '/LearnRussian/vocabulary/noun', component: Vocab_noun },
+  { path: '/LearnRussian/vocabulary/verb', component: Vocab_verb },
+  { path: '/LearnRussian/vocabulary/adjective', component: Vocab_adjective },
+  { path: '/LearnRussian/vocabulary/preposition', component: Vocab_preposition },
+  { path: '/LearnRussian/vocabulary/pronoun', component: Vocab_pronoun }
 
 ]
 
