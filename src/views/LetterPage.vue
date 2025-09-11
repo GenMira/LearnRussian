@@ -355,7 +355,7 @@ export default {
       this.isExpanded = !this.isExpanded; // true/false を切り替える
     },
     toggleTextV(){
-      this.isExpandedV = !this.isExpandedV; // true/false を切り替える
+      this.isExpandedV = !this.isExpandedV; 
     }
   }
 }
