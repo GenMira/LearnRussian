@@ -41,6 +41,8 @@ jobs:
         run: npm install
       - name: Build
         run: npm run build
+      - name: Check dist
+        run: ls -l dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
