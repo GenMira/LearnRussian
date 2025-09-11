@@ -11,6 +11,9 @@ export default defineConfig({
     vueDevTools(),
   ],
   base: '/LearnRussian/',
+  build: {
+    outDir: 'dist'           // ビルド成果物のフォルダ名
+  },
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
