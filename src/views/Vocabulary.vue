@@ -1,6 +1,6 @@
 <template>
   <div class="textCenterizer">
-    <h1>Vocabrary Page</h1>
+    <h1>Список Слов</h1>
     <p>ここにはよく使う語彙をまとめます。</p>
   </div>
   <div class="buttons">
