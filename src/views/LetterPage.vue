@@ -361,24 +361,6 @@ export default {
 
 <style scoped>
 
-
-.textCenterizer{
-  text-align: center;
-  margin-top: 5vh;
-  margin-bottom: 10vh;
-}
-
-.text-box {
-  width: 65%;              /* 横幅を画面の70%に設定 */
-  margin: 2rem auto;       /* 左右中央揃え、上下に余白 */
-  padding: 1.5rem;         /* 内側の余白 */
-  background-color: #f9f9f9; /* 背景色（任意） */
-  border-radius: 10px;     /* 角を丸める */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 影をつける（任意） */
-  text-align: left;        /* テキストは左揃え（変更可能） */
-  line-height: 1.6;        /* 行間を広げて読みやすく */
-}
-
 .read-more {
   color: gray;
   cursor: pointer;
@@ -395,18 +377,7 @@ export default {
   text-align: left;
 }
 
-.center-table {
-  margin: 0 auto;       /* 左右中央寄せ */
-  border-collapse: collapse; /* 枠線をまとめる */
-  width: 70%;           /* 任意で表の横幅を指定 */
-  text-align: center;   /* セル内の文字を中央揃え */
-}
 
-.center-table th,
-.center-table td {
-  border: 1px solid #ccc; /* 枠線 */
-  padding: 0.5rem;
-}
 
 a {
   text-decoration: none;

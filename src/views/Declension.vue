@@ -23,12 +23,6 @@
 
 <style scoped>
 
-.textCenterizer{
-  text-align: center;
-  margin-top: 5vh;
-  margin-bottom: 10vh;
-}
-
 .text-box {
   width: 65%;              /* 横幅を画面の70%に設定 */
   margin: 2rem auto;       /* 左右中央揃え、上下に余白 */
