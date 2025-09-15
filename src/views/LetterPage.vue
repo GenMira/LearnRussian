@@ -1,6 +1,6 @@
 <template>
   <div class="textCenterizer">
-    <h1>урок алфавита</h1>
+    <h1>урок по алфавиту</h1>
     <p>ここには文字に関する内容についてまとめます。</p>
   </div>
   <div>

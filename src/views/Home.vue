@@ -11,23 +11,23 @@
     <div class="button-grid">
       <router-link to="/LearnRussian/letter"class="category-button">
         <!-- <img src="/src/assets/letter.jpg" alt="Letter" class="button-image" /> -->
-        <span class="button-text">Letter</span>
+        <span class="button-text">文字</span>
       </router-link>
 
       <router-link to="/LearnRussian/grammar" class="category-button">
         <!-- <img src="/src/assets/grammar.jpg" alt="Grammar" class="button-image" /> -->
-        <span class="button-text">Grammar</span>
+        <span class="button-text">文法</span>
       </router-link>
 
       <router-link to="/LearnRussian/declension" class="category-button">
         <!-- <img src="/src/assets/vocabulary.jpg" alt="Vocabulary" class="button-image" /> -->
-        <span class="button-text">Declension</span>
+        <span class="button-text">格変化</span>
       </router-link>
     </div>
     <div class="button-grid">
       <router-link to="/LearnRussian/vocabulary"class="category-button">
         <!-- <img src="/src/assets/letter.jpg" alt="Letter" class="button-image" /> -->
-        <span class="button-text">Vocabulary</span>
+        <span class="button-text">単語</span>
       </router-link>
     </div>
   </div>

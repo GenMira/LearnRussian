@@ -1,6 +1,6 @@
 <template>
   <div class="textCenterizer">
-    <h1>урок грамматики</h1>
+    <h1>урок по грамматике</h1>
     <p>ここには文法についてまとめます。</p>
   </div>
   <div>
