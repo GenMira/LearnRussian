@@ -1,7 +1,7 @@
 <template>
   <div class="textCenterizer">
     <h1>Grammar Page</h1>
-    <p>ここには文法に関するコンテンツを表示します。</p>
+    <p>ここには文法についてまとめます。</p>
   </div>
   <div>
     <div class="text-box">

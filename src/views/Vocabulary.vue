@@ -1,7 +1,7 @@
 <template>
   <div class="textCenterizer">
     <h1>Vocabrary Page</h1>
-    <p>ここには語彙に関するコンテンツを表示します。</p>
+    <p>ここにはよく使う語彙をまとめます。</p>
   </div>
   <div class="buttons">
     <div class="button-grid">

@@ -1,7 +1,7 @@
 <template>
   <div class="textCenterizer">
     <h1>Letter Page</h1>
-    <p>ここには文字に関するコンテンツを表示します。</p>
+    <p>ここには文字に関する内容についてまとめます。</p>
   </div>
   <div>
     <div class="text-box">
@@ -173,11 +173,11 @@
       <br>
       <table class="center-table">
         <tbody>
-          <tr><td>Ж ж</td><td>[ʐ]（日本語の「ジュ」に近い）</td></tr>
-          <tr><td>Ч ч</td><td>[t͡ɕ]（日本語の「チ」に近い）</td></tr>
-          <tr><td>Ш ш</td><td>[ʂ]（舌を反らせた「シ」）</td></tr>
-          <tr><td>Щ щ</td><td>[ɕː]（長い柔らかい「シ」）</td></tr>
-          <tr><td>Ц ц</td><td>[t͡s]（日本語の「ツ」に近い）</td></tr>
+          <tr><td>Ж ж</td><td>[zh]（日本語の「ジュ」に近い）</td></tr>
+          <tr><td>Ч ч</td><td>[ch]（日本語の「チ」に近い）</td></tr>
+          <tr><td>Ш ш</td><td>[sh]（舌を反らせた「シ」）</td></tr>
+          <tr><td>Щ щ</td><td>[shch]（長い柔らかい「シ」）</td></tr>
+          <tr><td>Ц ц</td><td>[ts]（日本語の「ツ」に近い）</td></tr>
           <tr><td>Й й</td><td>[j]（英語の *yes* の y）</td></tr>
         </tbody>
       </table>

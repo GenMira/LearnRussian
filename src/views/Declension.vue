@@ -1,7 +1,7 @@
 <template>
   <div class="textCenterizer">
     <h1>Declention Page</h1>
-    <p>ここには格変化に関するコンテンツをまとめます。</p>
+    <p>ここでは格変化を一覧にしてまとめます。</p>
   </div>
   <div class="text-box">
     <h2>人称代名詞</h2>
