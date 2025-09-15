@@ -138,3 +138,25 @@ main {
 }
 
 </style>
+
+<script>
+export default {
+  methods: {
+    scrollToId(id) {
+      const el = document.getElementById(id)
+      if (!el) return
+
+      const rect = el.getBoundingClientRect()
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop
+
+      // 要素を画面中央に配置
+      const top = rect.top + scrollTop - window.innerHeight / 2 + rect.height / 2
+
+      window.scrollTo({
+        top: top,
+        behavior: 'smooth'  // スムーズスクロール
+      })
+    }
+  }
+}
+</script>

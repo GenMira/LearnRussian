@@ -1,7 +1,7 @@
 <template>
   <div class="textCenterizer">
-    <h1>Letter Page</h1>
-    <p>ここには文字に関するコンテンツを表示します。</p>
+    <h1>Урок по Алфавиту</h1>
+    <p>ここには文字に関する内容についてまとめます。</p>
   </div>
   <div>
     <div class="text-box">
@@ -100,14 +100,14 @@
         </tbody>
       </table>
       <br>
-      <p>硬音と軟音については<a href="#symbol">後述</a></p>
+      <p>硬音と軟音については<a href="#symbol" @click.prevent="scrollToId('symbol')">後述</a></p>
       <br>
       <p>軟母音は基本的に硬母音にй(短い「イ」)をつけて発音するイメージです</p>
       <p>(発音記号の[j]はヤの発音です)</p>
       <p>ただしи、ыは特殊なので注意</p>
       <br>
       <p>またёには必ずアクセントがあります</p>
-      <a href="#accent">アクセントについてはこちら</a>
+      <a href="#accent" @click.prevent="scrollToId('accent')">アクセントについてはこちら</a>
 
     </div>
     <div class="text-box">
@@ -164,7 +164,7 @@
       <br>
       <p>зはсと同じ口の構え</p>
       <p>いわゆる有声子音と無声子音</p>
-      <a href="#voiced">詳しくはこちら</a>
+      <a href="#voiced" @click.prevent="scrollToId('voiced')">詳しくはこちら</a>
       <br>
       <p>фとвは英語のfとvとは違って、下唇に前歯を軽く触れさせたまま音を出します</p>
       <p>fとvは一瞬触れさせて離しながら音を出すイメージ</p>
@@ -173,11 +173,11 @@
       <br>
       <table class="center-table">
         <tbody>
-          <tr><td>Ж ж</td><td>[ʐ]（日本語の「ジュ」に近い）</td></tr>
-          <tr><td>Ч ч</td><td>[t͡ɕ]（日本語の「チ」に近い）</td></tr>
-          <tr><td>Ш ш</td><td>[ʂ]（舌を反らせた「シ」）</td></tr>
-          <tr><td>Щ щ</td><td>[ɕː]（長い柔らかい「シ」）</td></tr>
-          <tr><td>Ц ц</td><td>[t͡s]（日本語の「ツ」に近い）</td></tr>
+          <tr><td>Ж ж</td><td>[zh]（日本語の「ジュ」に近い）</td></tr>
+          <tr><td>Ч ч</td><td>[ch]（日本語の「チ」に近い）</td></tr>
+          <tr><td>Ш ш</td><td>[sh]（舌を反らせた「シ」）</td></tr>
+          <tr><td>Щ щ</td><td>[shch]（長い柔らかい「シ」）</td></tr>
+          <tr><td>Ц ц</td><td>[ts]（日本語の「ツ」に近い）</td></tr>
           <tr><td>Й й</td><td>[j]（英語の *yes* の y）</td></tr>
         </tbody>
       </table>
@@ -234,7 +234,7 @@
       <br>
       <p>以上のことを踏まえると軟母音は口蓋化させるもの＋硬母音と考えることができそうですね</p>
       <p>つまりаとяは本質的には両方「ア」の音ということです</p>
-      <p>мя=мьа</p>
+      <p>мя≒мьа</p>
       <br>
       <h3>○硬音記号について</h3>
       <p>さて、トヴョールドゥイ・ズナークは硬音記号なんて名前がついていますが、軟子音を硬子音に変えるものではありません</p>
@@ -262,7 +262,7 @@
     <div class="text-box" id="accent">
       <h2>アクセント</h2>
       <p>アクセントのある音節の母音は<span style="color: blue">強く・長め</span>に発音し、アクセントのない母音は<span style="color: blue">弱く・短め</span>に発音する</p>
-      <p>教科書や辞書等では2音節以上の語にはアクセント記号(&#769;)がついているので、単語を覚えるときはアクセントの位置も覚えましょう</p>
+      <p>教科書や辞書等では2音節以上の語にはアクセント記号( &#769; )がついているので、単語を覚えるときはアクセントの位置も覚えましょう</p>
       <br>
       <p>例</p>
       <p>па&#769;па　パーパ</p>
@@ -336,9 +336,7 @@
 export default {
   data() {
     return {
-      fullText: `tips:キリル文字の成立経緯\n9世紀にギリシャ人宣教師キュリロスとメトディオスの兄弟が、
-      文字を持たないスラヴ人へギリシャ正教を布教するために、ギリシア文字をもとにしてスラヴ語を表す文字を考案し、
-      これが後のキリル文字となりました。なおロシア語ではキュリロスは聖人キリル(Святой Кирилл)と呼ばれています。`,
+      fullText: `tips:キリル文字の成立経緯\n9世紀にギリシャ人宣教師キュリロスとメトディオスの兄弟が、文字を持たないスラヴ人へギリシャ正教を布教するために、ギリシア文字をもとにしてスラヴ語を表す文字を考案し、これが後のキリル文字となりました。なおロシア語ではキュリロスは聖人キリル(Святой Кирилл)と呼ばれています。`,
       shortText: `tips:キリル文字の成立経緯...`,
       isExpanded: false,
       isExpandedV: false,
@@ -356,30 +354,27 @@ export default {
     },
     toggleTextV(){
       this.isExpandedV = !this.isExpandedV; 
+    },
+    scrollToId(id) {
+      const el = document.getElementById(id)
+      if (!el) return
+
+      const rect = el.getBoundingClientRect()
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop
+
+      // 要素を画面中央に配置
+      const top = rect.top + scrollTop - window.innerHeight /4 
+
+      window.scrollTo({
+        top: top,
+        behavior: 'smooth'  // スムーズスクロール
+      })
     }
   }
 }
 </script>
 
 <style scoped>
-
-
-.textCenterizer{
-  text-align: center;
-  margin-top: 5vh;
-  margin-bottom: 10vh;
-}
-
-.text-box {
-  width: 65%;              /* 横幅を画面の70%に設定 */
-  margin: 2rem auto;       /* 左右中央揃え、上下に余白 */
-  padding: 1.5rem;         /* 内側の余白 */
-  background-color: #f9f9f9; /* 背景色（任意） */
-  border-radius: 10px;     /* 角を丸める */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 影をつける（任意） */
-  text-align: left;        /* テキストは左揃え（変更可能） */
-  line-height: 1.6;        /* 行間を広げて読みやすく */
-}
 
 .read-more {
   color: gray;
@@ -396,21 +391,5 @@ export default {
   line-height: 1.6;
   text-align: left;
 }
-
-.center-table {
-  margin: 0 auto;       /* 左右中央寄せ */
-  border-collapse: collapse; /* 枠線をまとめる */
-  width: 70%;           /* 任意で表の横幅を指定 */
-  text-align: center;   /* セル内の文字を中央揃え */
-}
-
-.center-table th,
-.center-table td {
-  border: 1px solid #ccc; /* 枠線 */
-  padding: 0.5rem;
-}
-
-a {
-  text-decoration: none;
-}
 </style>
+
