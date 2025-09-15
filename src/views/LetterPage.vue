@@ -376,10 +376,4 @@ export default {
   line-height: 1.6;
   text-align: left;
 }
-
-
-
-a {
-  text-decoration: none;
-}
 </style>
