@@ -1,6 +1,6 @@
 <template>
   <div class="textCenterizer">
-    <h1>Grammar Page</h1>
+    <h1>урок грамматики</h1>
     <p>ここには文法についてまとめます。</p>
   </div>
   <div>
@@ -83,6 +83,12 @@
         <br>
         <p>онаは「彼女」を意味する代名詞で、英語で言えばsheです</p>
         <p>彼の場合はонになります</p>
+        <p>
+          詳しくは
+          <a href="#p_pronoun" @click.prevent="scrollToId('p_pronoun')">人称代名詞</a>
+          を参照
+        </p>        
+        <br>
         <p>до&#769;маは「家で、家に」という意味の副詞です</p>
         <p>гдеの文で使える副詞としては他に、там(あそこに、あそこで)、здесь(ここで、ここに)などがあります</p>
         <br>
@@ -90,7 +96,105 @@
           <br>なぜならこれらを使う文を考えるときには動詞を使いたくなり、動詞を使った文を扱うためにはその前に性と数、格変化について扱わなければならないからです</p>
     </div>
     <div class="text-box">
-      <h2>名詞の性と数</h2>
+      <h2>名詞の性</h2>
+      <p>ロシア語の名詞には文法上の性(男性・女性・中性)があります</p>
+      <p>それぞれの単語の性は、（多少の例外はあるにしろ）概ね末尾の文字によって決まります</p>
+      <br>
+      <p>いやぁ、末尾の文字で性が分かるなんて簡単なシステムでよかった、フランス語やドイツ語では各単語ごとに不規則に決まっていて全部暗記しないといけないですから</p>
+      <br>
+      <table class="center-table">
+        <tr>
+          <th></th>
+          <th colspan="3">末尾の文字</th>
+        </tr>
+        <tr>
+          <td>男性名詞</td>
+          <td>(й以外の子音文字)<br>журна&#769;л 雑誌</td>
+          <td>й<br>музе&#769;й 博物館</td>
+          <td>ь<br>слова&#769;рь 辞書</td>
+        </tr>
+        <tr>
+          <td>女性名詞</td>
+          <td>а<br>по&#769;чта 郵便局</td>
+          <td>я<br>ле&#769;кция 講義</td>
+          <td>ь<br>тетра&#769;дь ノート</td>
+        </tr>
+        <tr>
+          <td>中性名詞</td>
+          <td>о<br>письмо&#769; 手紙</td>
+          <td>е<br>мо&#769;ре 海</td>
+          <td>мя<br>вре&#769;мя 時間</td>
+        </tr>
+      </table>
+      <br>
+      <p>それでもьで終わる単語は男性名詞にも女性名詞にもあるので、ьで終わる単語に関しては暗記が必要ですが......これでもだいぶ楽な方だと思って割り切りましょう！</p>
+      <br>
+      <p>また、例外として、аやяで終わっていたとしても男性を表す単語なら男性名詞となります</p>
+      <p>例 : па&#769;па(父親), дя&#769;дя(叔父), ми&#769;ша(михаилの愛称)</p>
+      <p>ми&#769;шаっていうと日本人の感覚としては響きが女性っぽいですが、男性の名前なんですよね......ロシア語の愛称は不可思議</p>
+    </div>
+    <div class="text-box">
+      <h2>所有代名詞</h2>
+      <p>所有代名詞は名詞の性と数に合わせて変化します</p>
+      <br>
+      <table class="center-table">
+        <tr>
+          <th></th>
+          <th>男性形</th>
+          <th>女性形</th>
+          <th>中性形</th>
+          <th>複数形</th>
+        </tr>
+        <tr>
+          <td>私の</td>
+          <td>мой</td>
+          <td>моя&#769;</td>
+          <td>моё</td>
+          <td>мои&#769;</td>
+        </tr>
+        <tr>
+          <td>あなたの</td>
+          <td>ваш</td>
+          <td>ва&#769;ша</td>
+          <td>ва&#769;ше</td>
+          <td>ва&#769;ши</td>
+        </tr>
+      </table>
+      <br>
+      <p>例</p>
+      <p>мой па&#769;па 私の父</p>
+      <p>моя&#769; ма&#769;ма 私の母</p>
+      <p>ва&#769;ше письмо&#769; あなたの手紙</p>
+      <p>ва&#769;ши кни&#769;ги あなたの本(кни&#769;гиはкни&#769;гаの複数形)</p>
+    </div>
+    <div class="text-box" id="p_pronoun">
+      <h2>人称代名詞</h2>
+      <table class="center-table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>単数</th>
+            <th>複数</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1人称</td>
+            <td>я&#769;</td>
+            <td>мы&#769;</td>
+          </tr>
+          <tr>
+            <td>2人称</td>
+            <td>ты&#769;</td>
+            <td>вы&#769;</td>
+          </tr>
+          <tr>
+            <td>3人称</td>
+            <td>о&#769;н, она&#769;,о&#769;но</td>
+            <td>они&#769;</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
     <div class="text-box">
       <h2>ざっくりと格変化</h2>
@@ -113,3 +217,25 @@
 <style scoped>
 
 </style>
+
+<script>
+export default {
+  methods: {
+    scrollToId(id) {
+      const el = document.getElementById(id)
+      if (!el) return
+
+      const rect = el.getBoundingClientRect()
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop
+
+      // 要素を画面中央に配置
+      const top = rect.top + scrollTop - window.innerHeight / 4
+
+      window.scrollTo({
+        top: top,
+        behavior: 'smooth'  // スムーズスクロール
+      })
+    }
+  }
+}
+</script>

@@ -1,6 +1,6 @@
 <template>
   <div class="textCenterizer">
-    <h1>Letter Page</h1>
+    <h1>урок алфавита</h1>
     <p>ここには文字に関する内容についてまとめます。</p>
   </div>
   <div>
@@ -100,14 +100,14 @@
         </tbody>
       </table>
       <br>
-      <p>硬音と軟音については<a href="#symbol">後述</a></p>
+      <p>硬音と軟音については<a href="#symbol" @click.prevent="scrollToId('symbol')">後述</a></p>
       <br>
       <p>軟母音は基本的に硬母音にй(短い「イ」)をつけて発音するイメージです</p>
       <p>(発音記号の[j]はヤの発音です)</p>
       <p>ただしи、ыは特殊なので注意</p>
       <br>
       <p>またёには必ずアクセントがあります</p>
-      <a href="#accent">アクセントについてはこちら</a>
+      <a href="#accent" @click.prevent="scrollToId('accent')">アクセントについてはこちら</a>
 
     </div>
     <div class="text-box">
@@ -164,7 +164,7 @@
       <br>
       <p>зはсと同じ口の構え</p>
       <p>いわゆる有声子音と無声子音</p>
-      <a href="#voiced">詳しくはこちら</a>
+      <a href="#voiced" @click.prevent="scrollToId('voiced')">詳しくはこちら</a>
       <br>
       <p>фとвは英語のfとvとは違って、下唇に前歯を軽く触れさせたまま音を出します</p>
       <p>fとvは一瞬触れさせて離しながら音を出すイメージ</p>
@@ -354,6 +354,21 @@ export default {
     },
     toggleTextV(){
       this.isExpandedV = !this.isExpandedV; 
+    },
+    scrollToId(id) {
+      const el = document.getElementById(id)
+      if (!el) return
+
+      const rect = el.getBoundingClientRect()
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop
+
+      // 要素を画面中央に配置
+      const top = rect.top + scrollTop - window.innerHeight /4 
+
+      window.scrollTo({
+        top: top,
+        behavior: 'smooth'  // スムーズスクロール
+      })
     }
   }
 }
@@ -377,3 +392,4 @@ export default {
   text-align: left;
 }
 </style>
+
