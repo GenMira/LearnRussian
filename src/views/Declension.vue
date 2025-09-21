@@ -9,14 +9,14 @@
     <table class="center-table">
       <thead>
         <tr>
-          <th>格</th>
-          <th>я<br>(私)</th>
-          <th>ты<br>(君)</th>
-          <th>он / оно<br>(彼 / それ)</th>
-          <th>она<br>(彼女)</th>
-          <th>мы<br>(私たち)</th>
-          <th>вы<br>(あなた(たち))</th>
-          <th>они<br>(彼ら・彼女ら・それら)</th>
+          <th></th>
+          <th>私</th>
+          <th>君</th>
+          <th>彼/<br>それ</th>
+          <th>彼女</th>
+          <th>私達</th>
+          <th>あなたたち</th>
+          <th>彼ら・彼女ら・それら</th>
         </tr>
       </thead>
       <tbody>
@@ -83,7 +83,8 @@
       </tbody>
     </table>
     <br>
-    <p>三人称の人称代名詞は、主格以外の形で、前置詞の後ろに来たときに「н-」が付く</p>
+    <p>онとоноは</p>
+    <p>三人称の人称代名詞は、主格以外の形で、前置詞の後ろに来たときに「н-」が付きます</p>
     <br>
     <p>Я иду́ с ним</p>
     <p>私は彼と一緒に行きます</p>
@@ -94,11 +95,11 @@
     <table class="center-table">
       <thead>
         <tr>
-          <th>格</th>
-          <th>кто<br>(誰)</th>
-          <th>что<br>(何)</th>
-          <th>како́й<br>(どんな)</th>
-          <th>че́й<br>(誰の)</th>
+          <th></th>
+          <th>誰</th>
+          <th>何</th>
+          <th>どんな</th>
+          <th>誰の</th>
         </tr>
       </thead>
       <tbody>
