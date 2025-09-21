@@ -7,6 +7,18 @@
     <h2>人称代名詞</h2>
     <br>
     <table class="center-table">
+      <thead>
+        <tr>
+          <th>格</th>
+          <th>я<br>(私)</th>
+          <th>ты<br>(君)</th>
+          <th>он / оно<br>(彼 / それ)</th>
+          <th>она<br>(彼女)</th>
+          <th>мы<br>(私たち)</th>
+          <th>вы<br>(あなた(たち))</th>
+          <th>они<br>(彼ら・彼女ら・それら)</th>
+        </tr>
+      </thead>
       <tbody>
         <tr>
           <td>主格<br>(Именительный)</td>
@@ -138,89 +150,144 @@
   <div class="text-box">
     <h2>名詞</h2>
     <br>
-    <h3>男性名詞</h3>
+    <h3>○男性名詞</h3>
     <br>
     <table class="center-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th></th>
+          <th>студе́нт<br>(学生)</th>
+          <th>журна́л<br>(雑誌)</th>
+          <th>музе́й<br>(博物館)</th>
+          <th>слова́рь<br>(辞書)</th>
+        </tr>
+      </thead>
       <tbody>
         <tr>
           <td rowspan="6">単数</td>
           <td>主</td>
+          <td>студе́нт</td>
           <td>журна́л</td>
           <td>музе́й</td>
           <td>слова́рь</td>
         </tr>
         <tr>
-          <td>属</td>
-          <td>журна́ла</td>
-          <td>музе́я</td>
-          <td>слова́ря</td>
+          <td>生</td>
+          <td>студе́нт<span style="color:red;">а</span></td>
+          <td>журна́л<span style="color:red;">а</span></td>
+          <td>музе́<span style="color:red;">я</span></td>
+          <td>словар<span style="color:red;">я́</span></td>
         </tr>
         <tr>
           <td>与</td>
-          <td>журна́лу</td>
-          <td>музе́ю</td>
-          <td>слова́рю</td>
+          <td>студе́нт<span style="color:red;">у</span></td>
+          <td>журна́л<span style="color:red;">у</span></td>
+          <td>музе́<span style="color:red;">ю</span></td>
+          <td>словар<span style="color:red;">ю́</span></td>
         </tr>
         <tr>
           <td>対</td>
+          <td>студе́нт<span style="color:red;">а</span></td>
           <td>журна́л</td>
           <td>музе́й</td>
-          <td>слова́рь</td>
+          <td>словар<span style="color:red;">ь</span></td>
         </tr>
         <tr>
           <td>造</td>
-          <td>журна́лом</td>
-          <td>музе́ем</td>
-          <td>слова́рем</td>
+          <td>студе́нт<span style="color:red;">ом</span></td>
+          <td>журна́л<span style="color:red;">ом</span></td>
+          <td>музе́<span style="color:red;">ем</span></td>
+          <td>словар<span style="color:red;">ём</span></td>
         </tr>
         <tr>
           <td>前</td>
-          <td>о журна́ле</td>
-          <td>о музе́е</td>
-          <td>о слова́ре</td>
+          <td>о студе́нт<span style="color:red;">е</span></td>
+          <td>о журна́л<span style="color:red;">е</span></td>
+          <td>о музе́<span style="color:red;">е</span></td>
+          <td>о словар<span style="color:red;">е́</span></td>
         </tr>
         <tr>
           <td rowspan="6">複数</td>
           <td>主</td>
-          <td>журна́лы</td>
-          <td>музе́и</td>
-          <td>слова́ри</td>
+          <td>студе́нт<span style="color:red;">ы</span></td>
+          <td>журна́л<span style="color:red;">ы</span></td>
+          <td>музе́<span style="color:red;">и</span></td>
+          <td>слова́р<span style="color:red;">и</span></td>
         </tr>
         <tr>
-          <td>属</td>
-          <td>журна́лов</td>
-          <td>музе́ев</td>
-          <td>слова́рей</td>
+          <td>生</td>
+          <td>студе́нт<span style="color:red;">ов</span></td>
+          <td>журна́л<span style="color:red;">ов</span></td>
+          <td>музе́<span style="color:red;">ев</span></td>
+          <td>словар<span style="color:red;">е́й</span></td>
         </tr>
         <tr>
           <td>与</td>
-          <td>журна́лам</td>
-          <td>музе́ям</td>
-          <td>слова́рям</td>
+          <td>студе́нт<span style="color:red;">ам</span></td>
+          <td>журна́л<span style="color:red;">ам</span></td>
+          <td>музе́<span style="color:red;">ям</span></td>
+          <td>словар<span style="color:red;">я́м</span></td>
         </tr>
         <tr>
           <td>対</td>
-          <td>журна́лы</td>
-          <td>музе́и</td>
-          <td>слова́ри</td>
+          <td>студе́нт<span style="color:red;">ов</span></td>
+          <td>журна́л<span style="color:red;">ы</span></td>
+          <td>музе́<span style="color:red;">и</span></td>
+          <td>слова́р<span style="color:red;">и</span></td>
         </tr>
         <tr>
           <td>造</td>
-          <td>журна́лами</td>
-          <td>музе́ями</td>
-          <td>слова́рями</td>
+          <td>студе́нт<span style="color:red;">ами</span></td>
+          <td>журна́л<span style="color:red;">ами</span></td>
+          <td>музе́<span style="color:red;">ями</span></td>
+          <td>словар<span style="color:red;">я́ми</span></td>
         </tr>
         <tr>
           <td>前</td>
-          <td>о журна́лах</td>
-          <td>о музе́ях</td>
-          <td>о слова́рях</td>
+          <td>о студе́нт<span style="color:red;">ах</span></td>
+          <td>о журна́л<span style="color:red;">ах</span></td>
+          <td>о музе́<span style="color:red;">ях</span></td>
+          <td>о словар<span style="color:red;">я́х</span></td>
         </tr>
       </tbody>
     </table>
-    <!-- <p>固有名詞もここに</p> -->
+    <br>
+    <h3>○女性名詞</h3>
+    <br>
+    <table class="center-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th></th>
+          <th>женщина</th>
+          <th>школа</th>
+          <th>аудитория</th>
+          <th>неделя</th>
+          <th>тетра́дь</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- 単数 -->
+        <tr><td rowspan="6">単数</td><td>主</td><td>женщи<span style="color:red;">на</span></td><td>школ<span style="color:red;">а</span></td><td>аудитори<span style="color:red;">я</span></td><td>недел<span style="color:red;">я</span></td><td>тетра<span style="color:red;">дь</span></td></tr>
+        <tr><td>生</td><td>женщин<span style="color:red;">ы</span></td><td>школ<span style="color:red;">ы</span></td><td>аудитори<span style="color:red;">и</span></td><td>недел<span style="color:red;">и</span></td><td>тетра<span style="color:red;">ди</span></td></tr>
+        <tr><td>与</td><td>женщин<span style="color:red;">е</span></td><td>школ<span style="color:red;">е</span></td><td>аудитори<span style="color:red;">и</span></td><td>недел<span style="color:red;">е</span></td><td>тетра<span style="color:red;">ди</span></td></tr>
+        <tr><td>対</td><td>женщин<span style="color:red;">у</span></td><td>школ<span style="color:red;">у</span></td><td>аудитори<span style="color:red;">ю</span></td><td>недел<span style="color:red;">ю</span></td><td>тетра<span style="color:red;">дь</span></td></tr>
+        <tr><td>造</td><td>женщин<span style="color:red;">ой</span></td><td>школ<span style="color:red;">ой</span></td><td>аудитори<span style="color:red;">ей</span></td><td>недел<span style="color:red;">ей</span></td><td>тетра<span style="color:red;">дью</span></td></tr>
+        <tr><td>前</td><td>о женщин<span style="color:red;">е</span></td><td>о школ<span style="color:red;">е</span></td><td>об аудитори<span style="color:red;">и</span></td><td>о недел<span style="color:red;">е</span></td><td>о тетра<span style="color:red;">ди</span></td></tr>
 
+        <!-- 複数 -->
+        <tr><td rowspan="6">複数</td><td>主</td><td>женщи<span style="color:red;">ны</span></td><td>школ<span style="color:red;">ы</span></td><td>аудитори<span style="color:red;">и</span></td><td>недел<span style="color:red;">и</span></td><td>тетра<span style="color:red;">ди</span></td></tr>
+        <tr><td>生</td><td>женщин<span style="color:red;"></span></td><td>школ<span style="color:red;"></span></td><td>аудитор<span style="color:red;">ий</span></td><td>недель</td><td>тетрад<span style="color:red;">ей</span></td></tr>
+        <tr><td>与</td><td>женщин<span style="color:red;">ам</span></td><td>школ<span style="color:red;">ам</span></td><td>аудитори<span style="color:red;">ям</span></td><td>недел<span style="color:red;">ям</span></td><td>тетрад<span style="color:red;">ям</span></td></tr>
+        <tr><td>対</td><td>женщин<span style="color:red;"></span></td><td>школ<span style="color:red;">ы</span></td><td>аудитори<span style="color:red;">и</span></td><td>недел<span style="color:red;">и</span></td><td>тетра<span style="color:red;">ди</span></td></tr>
+        <tr><td>造</td><td>женщин<span style="color:red;">ами</span></td><td>школ<span style="color:red;">ами</span></td><td>аудитори<span style="color:red;">ями</span></td><td>недел<span style="color:red;">ями</span></td><td>тетра<span style="color:red;">дями</span></td></tr>
+        <tr><td>前</td><td>о женщин<span style="color:red;">ах</span></td><td>о школ<span style="color:red;">ах</span></td><td>об аудитори<span style="color:red;">ях</span></td><td>о недел<span style="color:red;">ях</span></td><td>о тетра<span style="color:red;">дях</span></td></tr>
+    </tbody>
+    </table>
 
+    <br>
+    <h3>○中性名詞</h3>
 
   </div>
   <div class="text-box">
