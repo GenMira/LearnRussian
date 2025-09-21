@@ -98,6 +98,7 @@
     </div>
     <div class="text-box">
       <h2>名詞の性と数</h2>
+      <br>
       <p>ロシア語の名詞には文法上の性(男性・女性・中性)があります</p>
       <p>それぞれの単語の性は、（多少の例外はあるにしろ）概ね末尾の文字によって決まります</p>
       <br>
@@ -167,6 +168,7 @@
     </div>
     <div class="text-box">
       <h2>所有代名詞</h2>
+      <br>
       <p>所有代名詞は名詞の性と数に合わせて変化します</p>
       <br>
       <table class="center-table">
@@ -212,6 +214,7 @@
     </div>
     <div class="text-box" id="p_pronoun">
       <h2>人称代名詞</h2>
+      <br>
       <p>人称代名詞の主格です(格については<a href="declension" @click.prevent="scrollToId('declension')">後述</a> )</p>
       <br>      
       <table class="center-table">
