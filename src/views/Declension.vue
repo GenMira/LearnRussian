@@ -265,6 +265,9 @@
     <p><span style="color:orange">活動体名詞</span> : 対格 = <span style="color: orange;">生格</span></p>
     <p><span style="color:blue">不活動体名詞</span> : 対格 = <span style="color: blue;">主格</span></p>
     <br>
+    <p>なお前近くの前についている「о」は「〜について」という意味の前置詞です</p>
+    <p>前置格は前置詞をつけて覚えた方が覚えやすいと言われています</p>
+    <br>
     <h3>○女性名詞</h3>
     <br>
     <table class="center-table">
@@ -389,6 +392,111 @@
 
     <br>
     <h3>○中性名詞</h3>
+    <br>
+    <table class="center-table">
+      <tr>
+        <th></th>
+        <th></th>
+        <th>手紙</th>
+        <th>海</th>
+        <th>建物</th>
+        <th>時間</th>
+      </tr>
+      <tr>
+        <td rowspan="6">単数</td>
+        <td>主</td>
+        <td>письм<span style="color:red">о&#769;</span></td>
+        <td>мо́р<span style="color:red">е</span></td>
+        <td>зда́ни<span style="color:red">е</span></td>
+        <td>вре́м<span style="color:red">я</span></td>
+      </tr>
+      <tr>
+        <td>生</td>
+        <td>пи́сьм<span style="color:red">а</span></td>
+        <td>мор<span style="color:red">я́</span></td>
+        <td>зда́ни<span style="color:red">я</span></td>
+        <td>вре́м<span style="color:red">ени</span></td>
+      </tr>
+      <tr>
+        <td>与</td>
+        <td>пи́сьм<span style="color:red">у</span></td>
+        <td>мор<span style="color:red">ю</span></td>
+        <td>зда́ни<span style="color:red">ю</span></td>
+        <td>вре́м<span style="color:red">ени</span></td>
+      </tr>
+      <tr>
+        <td>対</td>
+        <td>пи́сьм<span style="color:red">о</span></td>
+        <td>мо́р<span style="color:red">е</span></td>
+        <td>зда́ни<span style="color:red">е</span></td>
+        <td>вре́м<span style="color:red">я</span></td>
+      </tr>
+      <tr>
+        <td>造</td>
+        <td>пи́сьм<span style="color:red">ом</span></td>
+        <td>мор<span style="color:red">е́м</span></td>
+        <td>зда́ни<span style="color:red">ем</span></td>
+        <td>вре́м<span style="color:red">енем</span></td>
+      </tr>
+      <tr>
+        <td>前</td>
+        <td>о пи́сьм<span style="color:red">е</span></td>
+        <td>о мор<span style="color:red">е</span></td>
+        <td>о зда́ни<span style="color:red">и</span></td>
+        <td>о вре́м<span style="color:red">ени</span></td>
+      </tr>
+      <tr>
+        <td rowspan="6">複数</td>
+        <td>主</td>
+        <td>пи́сьм<span style="color:red">а</span></td>
+        <td>мор<span style="color:red">я́</span></td>
+        <td>зда́ни<span style="color:red">я</span></td>
+        <td>врем<span style="color:red">ена́</span></td>
+      </tr>
+      <tr>
+        <td>生</td>
+        <td>пи́сьм<span style="color:red">ен</span></td>
+        <td>мор<span style="color:red">е́й</span></td>
+        <td>зда́ни<span style="color:red">й</span></td>
+        <td>врем<span style="color:red">ён</span></td>
+      </tr>
+      <tr>
+        <td>与</td>
+        <td>пи́сьм<span style="color:red">ам</span></td>
+        <td>мор<span style="color:red">я́м</span></td>
+        <td>зда́ни<span style="color:red">ям</span></td>
+        <td>врем<span style="color:red">ена́м</span></td>
+      </tr>
+      <tr>
+        <td>対</td>
+        <td>пи́сьм<span style="color:red">а</span></td>
+        <td>мор<span style="color:red">я́</span></td>
+        <td>зда́ни<span style="color:red">я</span></td>
+        <td>врем<span style="color:red">ена́</span></td>
+      </tr>
+      <tr>
+        <td>造</td>
+        <td>пи́сьм<span style="color:red">ами</span></td>
+        <td>мор<span style="color:red">я́ми</span></td>
+        <td>зда́ни<span style="color:red">ями</span></td>
+        <td>врем<span style="color:red">ена́ми</span></td>
+      </tr>
+      <tr>
+        <td>前</td>
+        <td>о пи́сьм<span style="color:red">ах</span></td>
+        <td>о мор<span style="color:red">я́х</span></td>
+        <td>о зда́ни<span style="color:red">ях</span></td>
+        <td>о врем<span style="color:red">ена́х</span></td>
+      </tr>
+    </table>
+
+
+    <br>
+    <p>中性名詞においては対格は常に主格です</p>
+    <p>また語尾が「-мя」で終わる名詞は例外的に変化します</p>
+    <br>
+
+
 
   </div>
   <div class="text-box">
