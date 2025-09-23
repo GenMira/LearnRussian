@@ -397,7 +397,7 @@
       <tr>
         <th></th>
         <th></th>
-        <th>手紙</th>
+        <th>言葉</th>
         <th>海</th>
         <th>建物</th>
         <th>時間</th>
@@ -405,85 +405,85 @@
       <tr>
         <td rowspan="6">単数</td>
         <td>主</td>
-        <td>письм<span style="color:red">о&#769;</span></td>
+        <td>сло&#769;в<span style="color:red">о</span></td>
         <td>мо́р<span style="color:red">е</span></td>
         <td>зда́ни<span style="color:red">е</span></td>
         <td>вре́м<span style="color:red">я</span></td>
       </tr>
       <tr>
         <td>生</td>
-        <td>пи́сьм<span style="color:red">а</span></td>
-        <td>мор<span style="color:red">я́</span></td>
+        <td>сло&#769;в<span style="color:red">а</span></td>
+        <td>мо&#769;р<span style="color:red">я</span></td>
         <td>зда́ни<span style="color:red">я</span></td>
         <td>вре́м<span style="color:red">ени</span></td>
       </tr>
       <tr>
         <td>与</td>
-        <td>пи́сьм<span style="color:red">у</span></td>
-        <td>мор<span style="color:red">ю</span></td>
+        <td>сло&#769;в<span style="color:red">у</span></td>
+        <td>мо&#769;р<span style="color:red">ю</span></td>
         <td>зда́ни<span style="color:red">ю</span></td>
         <td>вре́м<span style="color:red">ени</span></td>
       </tr>
       <tr>
         <td>対</td>
-        <td>пи́сьм<span style="color:red">о</span></td>
+        <td>сло&#769;в<span style="color:red">о</span></td>
         <td>мо́р<span style="color:red">е</span></td>
         <td>зда́ни<span style="color:red">е</span></td>
         <td>вре́м<span style="color:red">я</span></td>
       </tr>
       <tr>
         <td>造</td>
-        <td>пи́сьм<span style="color:red">ом</span></td>
-        <td>мор<span style="color:red">е́м</span></td>
+        <td>сло&#769;в<span style="color:red">ом</span></td>
+        <td>мо&#769;р<span style="color:red">ем</span></td>
         <td>зда́ни<span style="color:red">ем</span></td>
         <td>вре́м<span style="color:red">енем</span></td>
       </tr>
       <tr>
         <td>前</td>
-        <td>о пи́сьм<span style="color:red">е</span></td>
-        <td>о мор<span style="color:red">е</span></td>
+        <td>о сло&#769;в<span style="color:red">е</span></td>
+        <td>о мо&#769;р<span style="color:red">е</span></td>
         <td>о зда́ни<span style="color:red">и</span></td>
         <td>о вре́м<span style="color:red">ени</span></td>
       </tr>
       <tr>
         <td rowspan="6">複数</td>
         <td>主</td>
-        <td>пи́сьм<span style="color:red">а</span></td>
+        <td>слов<span style="color:red">а́</span></td>
         <td>мор<span style="color:red">я́</span></td>
         <td>зда́ни<span style="color:red">я</span></td>
         <td>врем<span style="color:red">ена́</span></td>
       </tr>
       <tr>
         <td>生</td>
-        <td>пи́сьм<span style="color:red">ен</span></td>
+        <td>слов</td>
         <td>мор<span style="color:red">е́й</span></td>
         <td>зда́ни<span style="color:red">й</span></td>
         <td>врем<span style="color:red">ён</span></td>
       </tr>
       <tr>
         <td>与</td>
-        <td>пи́сьм<span style="color:red">ам</span></td>
+        <td>слов<span style="color:red">а́м</span></td>
         <td>мор<span style="color:red">я́м</span></td>
         <td>зда́ни<span style="color:red">ям</span></td>
         <td>врем<span style="color:red">ена́м</span></td>
       </tr>
       <tr>
         <td>対</td>
-        <td>пи́сьм<span style="color:red">а</span></td>
+        <td>слов<span style="color:red">а́</span></td>
         <td>мор<span style="color:red">я́</span></td>
         <td>зда́ни<span style="color:red">я</span></td>
         <td>врем<span style="color:red">ена́</span></td>
       </tr>
       <tr>
         <td>造</td>
-        <td>пи́сьм<span style="color:red">ами</span></td>
+        <td>слов<span style="color:red">а́ми</span></td>
         <td>мор<span style="color:red">я́ми</span></td>
         <td>зда́ни<span style="color:red">ями</span></td>
         <td>врем<span style="color:red">ена́ми</span></td>
       </tr>
       <tr>
         <td>前</td>
-        <td>о пи́сьм<span style="color:red">ах</span></td>
+        <td>о слов<span style="color:red">а́х</span></td>
         <td>о мор<span style="color:red">я́х</span></td>
         <td>о зда́ни<span style="color:red">ях</span></td>
         <td>о врем<span style="color:red">ена́х</span></td>
@@ -492,12 +492,7 @@
 
 
     <br>
-    <p>中性名詞においては対格は常に主格です</p>
-    <p>また語尾が「-мя」で終わる名詞は例外的に変化します</p>
-    <br>
-
-
-
+    <p>中性名詞においては基本的に 対格 = 主格 です</p>
   </div>
   <div class="text-box">
     <h2>動詞</h2>
