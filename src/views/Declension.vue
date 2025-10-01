@@ -514,7 +514,6 @@
         <tr><th></th><th>主語</th><th>形</th></tr>
       </thead>
       <tbody>
-        <!-- 現在形 -->
         <tr><td>不定形</td><td>-</td><td>чита&#769;ть</td></tr>
         <tr><td rowspan="6">現在</td><td>я</td><td>чита&#769;<span style="color:red">ю</span></td></tr>
         <tr><td>ты</td><td>чита&#769;<span style="color:red">ешь</span></td></tr>
@@ -522,12 +521,12 @@
         <tr><td>мы</td><td>чита&#769;<span style="color:red">ем</span></td></tr>
         <tr><td>вы</td><td>чита&#769;<span style="color:red">ете</span></td></tr>
         <tr><td>они</td><td>чита&#769;<span style="color:red">ют</span></td></tr>
-        <!-- 過去形 -->
+
         <tr><td rowspan="4">過去</td><td>он</td><td>чита&#769;<span style="color:red">л</span></td></tr>
         <tr><td>она</td><td>чита&#769;<span style="color:red">ла</span></td></tr>
         <tr><td>оно</td><td>чита&#769;<span style="color:red">ло</span></td></tr>
         <tr><td>они</td><td>чита&#769;<span style="color:red">ли</span></td></tr>
-        <!-- 命令形 -->
+
         <tr><td rowspan="2">命令</td><td>ты</td><td>чита&#769;<span style="color:red">й</span></td></tr>
         <tr><td>вы</td><td>чита&#769;<span style="color:red">йте</span></td></tr>
       </tbody>
@@ -541,7 +540,6 @@
         <tr><th>時制</th><th>主語</th><th>形</th></tr>
       </thead>
       <tbody>
-        <!-- 現在形 -->
         <tr><td>不定形</td><td>-</td><td>смотре&#769;ть</td></tr>
         <tr><td rowspan="6">現在</td><td>я</td><td>смотр<span style="color:red">ю&#769;</span></td></tr>
         <tr><td>ты</td><td>смо&#769;тр<span style="color:red">ишь</span></td></tr>
@@ -549,12 +547,12 @@
         <tr><td>мы</td><td>смо&#769;тр<span style="color:red">им</span></td></tr>
         <tr><td>вы</td><td>смо&#769;тр<span style="color:red">ите</span></td></tr>
         <tr><td>они</td><td>смо&#769;тр<span style="color:red">ят</span></td></tr>
-        <!-- 過去形 -->
+
         <tr><td rowspan="4">過去</td><td>он</td><td>смотр<span style="color:red">е&#769;л</span></td></tr>
         <tr><td>она</td><td>смотр<span style="color:red">е&#769;ла</span></td></tr>
         <tr><td>оно</td><td>смотр<span style="color:red">е&#769;ло</span></td></tr>
         <tr><td>они</td><td>смотр<span style="color:red">е&#769;ли</span></td></tr>
-        <!-- 命令形 -->
+
         <tr><td rowspan="2">命令</td><td>ты</td><td>смотри&#769;<span style="color:red"></span></td></tr>
         <tr><td>вы</td><td>смотр<span style="color:red">и&#769;те</span></td></tr>
       </tbody>
@@ -566,7 +564,6 @@
         <tr><th>時制</th><th>主語</th><th>形</th></tr>
       </thead>
       <tbody>
-        <!-- 現在形 -->
         <tr><td>不定形</td><td>-</td><td>нра&#769;виться</td></tr>
         <tr><td rowspan="6">現在</td><td>я</td><td>нра&#769;влю<span style="color:red">сь</span></td></tr>
         <tr><td>ты</td><td>нра&#769;в<span style="color:red">ишься</span></td></tr>
@@ -574,21 +571,209 @@
         <tr><td>мы</td><td>нра&#769;в<span style="color:red">имся</span></td></tr>
         <tr><td>вы</td><td>нра&#769;в<span style="color:red">итесь</span></td></tr>
         <tr><td>они</td><td>нра&#769;в<span style="color:red">ятся</span></td></tr>
-        <!-- 過去形 -->
+
         <tr><td rowspan="4">過去</td><td>он</td><td>нра&#769;ви<span style="color:red">лся</span></td></tr>
         <tr><td>она</td><td>нра&#769;ви<span style="color:red">лась</span></td></tr>
         <tr><td>оно</td><td>нра&#769;ви<span style="color:red">лось</span></td></tr>
         <tr><td>они</td><td>нра&#769;ви<span style="color:red">лись</span></td></tr>
-        <!-- 命令形 -->
+
         <tr><td rowspan="2">命令</td><td>ты</td><td>нра&#769;вь<span style="color:red">ся</span></td></tr>
         <tr><td>вы</td><td>нра&#769;вь<span style="color:red">тесь</span></td></tr>
       </tbody>
     </table>
-
-
+    <br>
+    <!-- <p>再帰動詞は動詞の後ろに「-ся」が付きます</p>
+    <p>意味は「〜する」という意味に加えて「自分自身に〜する」という意味が加わります</p> -->
+    <br>
+    <p>第1変化は不定形と語幹が同じで、アクセントはそのままです</p>
+    <p>第2変化は不定形から1つ母音をとり、アクセントは移動することがあります</p>
+    <p>一度アクセントが移動するとその後の変化においてアクセントは移動したままです</p>
+    <br>
+    <p>-ить,-етьは第二変化のものが多い傾向にありますが、絶対ではないので単語ごとに覚えなければなりません</p>
   </div>
   <div class="text-box">
     <h2>形容詞</h2>
+    <br>
+    <table class="center-table">
+      <caption>硬変化</caption>
+      <caption>но́вый — 新しい</caption>
+      <thead>
+        <tr>
+          <th>格</th>
+          <th>男性</th>
+          <th>中性</th>
+          <th>女性</th>
+          <th>複数</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>主</td>
+          <td>но&#769;в<span style="color:red">ый</span></td>
+          <td>но&#769;в<span style="color:red">ое</span></td>
+          <td>но&#769;в<span style="color:red">ая</span></td>
+          <td>но&#769;в<span style="color:red">ые</span></td>
+        </tr>
+        <tr>
+          <td>生</td>
+          <td colspan="2">но&#769;в<span style="color:red">ого</span></td>
+          <td>но&#769;в<span style="color:red">ой</span></td>
+          <td>но&#769;в<span style="color:red">ых</span></td>
+        </tr>
+        <tr>
+          <td>与</td>
+          <td colspan="2">но&#769;в<span style="color:red">ому</span></td>
+          <td>но&#769;в<span style="color:red">ой</span></td>
+          <td>но&#769;в<span style="color:red">ым</span></td>
+        </tr>
+        <tr>
+          <td>対</td>
+          <td>но&#769;в<span style="color:red">ый</span><br>но&#769;в<span style="color:red">ого</span></td>
+          <td>но&#769;в<span style="color:red">ое</span></td>
+          <td>но&#769;в<span style="color:red">ую</span></td>
+          <td>но&#769;в<span style="color:red">ые</span><br>но&#769;в<span style="color:red">ых</span></td>
+        </tr>
+        <tr>
+          <td>造</td>
+          <td colspan="2">но&#769;в<span style="color:red">ым</span></td>
+          <td>но&#769;в<span style="color:red">ой</span></td>
+          <td>но&#769;в<span style="color:red">ыми</span></td>
+        </tr>
+        <tr>
+          <td>前置</td>
+          <td colspan="2">о но&#769;в<span style="color:red">ом</span></td>
+          <td>о но&#769;в<span style="color:red">ой</span></td>
+          <td>о но&#769;в<span style="color:red">ых</span></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <table class="center-table">
+      <caption>軟変化</caption>
+      <caption>ра́нний — 早い</caption>
+      <thead>
+        <tr>
+          <th>格</th>
+          <th>男性</th>
+          <th>中性</th>
+          <th>女性</th>
+          <th>複数</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>主</td>
+          <td>ра&#769;нн<span style="color:red">ий</span></td>
+          <td>ра&#769;нн<span style="color:red">ее</span></td>
+          <td>ра&#769;нн<span style="color:red">яя</span></td>
+          <td>ра&#769;нн<span style="color:red">ие</span></td>
+        </tr>
+        <tr>
+          <td>生</td>
+          <td colspan="2">ра&#769;нн<span style="color:red">его</span></td>
+          <td>ра&#769;нн<span style="color:red">ей</span></td>
+          <td>ра&#769;нн<span style="color:red">их</span></td>
+        </tr>
+        <tr>
+          <td>与</td>
+          <td colspan="2">ра&#769;нн<span style="color:red">ему</span></td>
+          <td>ра&#769;нн<span style="color:red">ей</span></td>
+          <td>ра&#769;нн<span style="color:red">им</span></td>
+        </tr>
+        <tr>
+          <td>対</td>
+          <td>ра&#769;нн<span style="color:red">ий</span><br>ра&#769;нн<span style="color:red">его</span></td>
+          <td>ра&#769;нн<span style="color:red">ее</span></td>
+          <td>ра&#769;нн<span style="color:red">юю</span></td>
+          <td>ра&#769;нн<span style="color:red">ие</span><br>ра&#769;нн<span style="color:red">их</span></td>
+        </tr>
+        <tr>
+          <td>造</td>
+          <td colspan="2">ра&#769;нн<span style="color:red">им</span></td>
+          <td>ра&#769;нн<span style="color:red">ей</span></td>
+          <td>ра&#769;нн<span style="color:red">ими</span></td>
+        </tr>
+        <tr>
+          <td>前置</td>
+          <td colspan="2">о ра&#769;нн<span style="color:red">ем</span></td>
+          <td>о ра&#769;нн<span style="color:red">ей</span></td>
+          <td>о ра&#769;нн<span style="color:red">их</span></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <table class="center-table">
+      <caption>正書法の影響を受ける例</caption>
+      <caption>хоро́ший — 良い</caption>
+      <thead>
+        <tr>
+          <th>格</th>
+          <th>男性</th>
+          <th>中性</th>
+          <th>女性</th>
+          <th>複数</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>主</td>
+          <td>хоро&#769;ш<span style="color:red">ий</span></td>
+          <td>хоро&#769;ш<span style="color:red">ее</span></td>
+          <td>хоро&#769;ш<span style="color:red">ая</span></td>
+          <td>хоро&#769;ш<span style="color:red">ие</span></td>
+        </tr>
+        <tr>
+          <td>生</td>
+          <td colspan="2">хоро&#769;ш<span style="color:red">его</span></td>
+          <td>хоро&#769;ш<span style="color:red">ей</span></td>
+          <td>хоро&#769;ш<span style="color:red">их</span></td>
+        </tr>
+        <tr>
+          <td>与</td>
+          <td colspan="2">хоро&#769;ш<span style="color:red">ему</span></td>
+          <td>хоро&#769;ш<span style="color:red">ей</span></td>
+          <td>хоро&#769;ш<span style="color:red">им</span></td>
+        </tr>
+        <tr>
+          <td>対</td>
+          <td>хоро&#769;ш<span style="color:red">ий</span><br>хоро&#769;ш<span style="color:red">его</span></td>
+          <td>хоро&#769;ш<span style="color:red">ее</span></td>
+          <td>хоро&#769;ш<span style="color:red">ую</span></td>
+          <td>хоро&#769;ш<span style="color:red">ие</span><br>хоро&#769;ш<span style="color:red">их</span></td>
+        </tr>
+        <tr>
+          <td>造</td>
+          <td colspan="2">хоро&#769;ш<span style="color:red">им</span></td>
+          <td>хоро&#769;ш<span style="color:red">ей</span></td>
+          <td>хоро&#769;ш<span style="color:red">ими</span></td>
+        </tr>
+        <tr>
+          <td>前置</td>
+          <td colspan="2">о хоро&#769;ш<span style="color:red">ем</span></td>
+          <td>о хоро&#769;ш<span style="color:red">ей</span></td>
+          <td>о хоро&#769;ш<span style="color:red">их</span></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <p>形容詞には硬変化と軟変化があります</p>
+    <p>硬変化は語幹が硬母音で終わるもの、軟変化は語幹が軟音で終わるものです</p>
+    <p>硬変化では語尾に硬母音、軟変化では語尾に軟母音が使われます</p>
+    <br>
+    <p>形容詞の対格は男性単数と複数において、形容詞がつく名詞が活動体名詞か不活動体名詞かによって変わります</p>
+    <br>
+    <h3>- 活動体名詞</h3>
+    <p>男性単数 : 対格 = 生格</p>
+    <p>複数 : 対格 = 生格</p>
+    <br>
+    <h3>- 不活動体名詞</h3>
+    <p>男性単数 : 対格 = 主格</p>
+    <p>複数 : 対格 = 主格</p>
+  </div>
+  <div class="text-box">
+    <h2>所有代名詞</h2>
+    <p>以下工事中</p>
+
   </div>
 </template>
 
