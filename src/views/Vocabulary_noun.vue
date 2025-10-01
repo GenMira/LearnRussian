@@ -8,4 +8,8 @@
     </router-link>
     <br>
   </div>
+  <div>
+    <p>человек</p>
+    <p>мужчина</p>
+  </div>
 </template>
