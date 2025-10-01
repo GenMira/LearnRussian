@@ -1,11 +1,7 @@
 <template>
   <div class="introduction">
-    <p>
-      初学者向けのロシア語学習サイトです。
-    </p>
-    <p>
-      ロシア語はただでさえ学習資料が少ないので、これがあなたのロシア語学習の手助けになりますように。
-    </p>
+    <p>初学者向けのロシア語学習サイトです</p>
+    <p>ロシア語はただでさえ学習資料が少ないので、これがあなたのロシア語学習の手助けになりますように</p>
   </div>
   <div class="buttons">
     <div class="button-grid">
@@ -21,7 +17,7 @@
 
       <router-link to="/LearnRussian/declension" class="category-button">
         <!-- <img src="/src/assets/vocabulary.jpg" alt="Vocabulary" class="button-image" /> -->
-        <span class="button-text">格変化</span>
+        <span class="button-text">単語の変化</span>
       </router-link>
     </div>
     <div class="button-grid">

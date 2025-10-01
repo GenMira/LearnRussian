@@ -1,7 +1,7 @@
 <template>
   <div class="textCenterizer">
     <h1>Список Слов</h1>
-    <p>ここにはよく使う語彙をまとめます。</p>
+    <p>ここにはよく使う語彙をまとめます</p>
   </div>
   <div class="buttons">
     <div class="button-grid">

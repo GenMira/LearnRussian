@@ -1,13 +1,13 @@
 <template>
   <div class="textCenterizer">
     <h1>Урок по Алфавиту</h1>
-    <p>ここには文字に関する内容についてまとめます。</p>
+    <p>ここには文字に関する内容についてまとめます</p>
   </div>
   <div>
     <div class="text-box">
       <h2>キリル文字</h2>
       <br>
-      <p>ロシア語の文字は<span style="color: red">キリル文字</span>と呼ばれていて、全部で33文字(母音文字10、子音文字21、記号文字2)あります。
+      <p>ロシア語の文字は<span style="color: red">キリル文字</span>と呼ばれていて、全部で33文字(母音文字10、子音文字21、記号文字2)あります
       </p>
       <br>
       <table class="center-table">

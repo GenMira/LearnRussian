@@ -1,7 +1,7 @@
 <template>
   <div class="textCenterizer">
     <h1>Урок по Грамматике</h1>
-    <p>ここには文法についてまとめます。</p>
+    <p>ここには文法についてまとめます</p>
   </div>
   <div>
     <div class="text-box">
