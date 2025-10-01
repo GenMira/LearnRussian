@@ -496,6 +496,96 @@
   </div>
   <div class="text-box">
     <h2>動詞</h2>
+    <!-- <br>
+    <p>変化する前の動詞の元々の形のことを<span style="color: red;">不定形</span>といいます</p>
+    <p>主語の人称や数、性、時制などによって動詞の形は変化します</p>
+    <p>ほとんどの動詞は-тьや-тьсяで終わります</p>
+    <br> -->
+    <br>
+    <!-- <p>現在形は「~する」という意味を表します</p>
+    <p>英語で言うと現在進行形です(英語の現在形は習慣的にすることを表すので)</p>
+    <br>
+    <p>現在形では主語の人称と数によって語尾が変化します</p>
+    <p>-тьで終わる動詞には第1変化と第2変化のものがあります</p> -->
+
+    <table class="center-table">
+      <caption>第1変化</caption>
+      <thead>
+        <tr><th></th><th>主語</th><th>形</th></tr>
+      </thead>
+      <tbody>
+        <!-- 現在形 -->
+        <tr><td>不定形</td><td>-</td><td>чита&#769;ть</td></tr>
+        <tr><td rowspan="6">現在</td><td>я</td><td>чита&#769;<span style="color:red">ю</span></td></tr>
+        <tr><td>ты</td><td>чита&#769;<span style="color:red">ешь</span></td></tr>
+        <tr><td>он/она/оно</td><td>чита&#769;<span style="color:red">ет</span></td></tr>
+        <tr><td>мы</td><td>чита&#769;<span style="color:red">ем</span></td></tr>
+        <tr><td>вы</td><td>чита&#769;<span style="color:red">ете</span></td></tr>
+        <tr><td>они</td><td>чита&#769;<span style="color:red">ют</span></td></tr>
+        <!-- 過去形 -->
+        <tr><td rowspan="4">過去</td><td>он</td><td>чита&#769;<span style="color:red">л</span></td></tr>
+        <tr><td>она</td><td>чита&#769;<span style="color:red">ла</span></td></tr>
+        <tr><td>оно</td><td>чита&#769;<span style="color:red">ло</span></td></tr>
+        <tr><td>они</td><td>чита&#769;<span style="color:red">ли</span></td></tr>
+        <!-- 命令形 -->
+        <tr><td rowspan="2">命令</td><td>ты</td><td>чита&#769;<span style="color:red">й</span></td></tr>
+        <tr><td>вы</td><td>чита&#769;<span style="color:red">йте</span></td></tr>
+      </tbody>
+    </table>
+
+    <br>
+
+    <table class="center-table">
+      <caption>第2変化</caption>
+      <thead>
+        <tr><th>時制</th><th>主語</th><th>形</th></tr>
+      </thead>
+      <tbody>
+        <!-- 現在形 -->
+        <tr><td>不定形</td><td>-</td><td>смотре&#769;ть</td></tr>
+        <tr><td rowspan="6">現在</td><td>я</td><td>смотр<span style="color:red">ю&#769;</span></td></tr>
+        <tr><td>ты</td><td>смо&#769;тр<span style="color:red">ишь</span></td></tr>
+        <tr><td>он/она/оно</td><td>смо&#769;тр<span style="color:red">ит</span></td></tr>
+        <tr><td>мы</td><td>смо&#769;тр<span style="color:red">им</span></td></tr>
+        <tr><td>вы</td><td>смо&#769;тр<span style="color:red">ите</span></td></tr>
+        <tr><td>они</td><td>смо&#769;тр<span style="color:red">ят</span></td></tr>
+        <!-- 過去形 -->
+        <tr><td rowspan="4">過去</td><td>он</td><td>смотр<span style="color:red">е&#769;л</span></td></tr>
+        <tr><td>она</td><td>смотр<span style="color:red">е&#769;ла</span></td></tr>
+        <tr><td>оно</td><td>смотр<span style="color:red">е&#769;ло</span></td></tr>
+        <tr><td>они</td><td>смотр<span style="color:red">е&#769;ли</span></td></tr>
+        <!-- 命令形 -->
+        <tr><td rowspan="2">命令</td><td>ты</td><td>смотри&#769;<span style="color:red"></span></td></tr>
+        <tr><td>вы</td><td>смотр<span style="color:red">и&#769;те</span></td></tr>
+      </tbody>
+    </table>
+    <br>
+    <table class="center-table">
+      <caption>再帰動詞</caption>
+      <thead>
+        <tr><th>時制</th><th>主語</th><th>形</th></tr>
+      </thead>
+      <tbody>
+        <!-- 現在形 -->
+        <tr><td>不定形</td><td>-</td><td>нра&#769;виться</td></tr>
+        <tr><td rowspan="6">現在</td><td>я</td><td>нра&#769;влю<span style="color:red">сь</span></td></tr>
+        <tr><td>ты</td><td>нра&#769;в<span style="color:red">ишься</span></td></tr>
+        <tr><td>он/она/оно</td><td>нра&#769;в<span style="color:red">ится</span></td></tr>
+        <tr><td>мы</td><td>нра&#769;в<span style="color:red">имся</span></td></tr>
+        <tr><td>вы</td><td>нра&#769;в<span style="color:red">итесь</span></td></tr>
+        <tr><td>они</td><td>нра&#769;в<span style="color:red">ятся</span></td></tr>
+        <!-- 過去形 -->
+        <tr><td rowspan="4">過去</td><td>он</td><td>нра&#769;ви<span style="color:red">лся</span></td></tr>
+        <tr><td>она</td><td>нра&#769;ви<span style="color:red">лась</span></td></tr>
+        <tr><td>оно</td><td>нра&#769;ви<span style="color:red">лось</span></td></tr>
+        <tr><td>они</td><td>нра&#769;ви<span style="color:red">лись</span></td></tr>
+        <!-- 命令形 -->
+        <tr><td rowspan="2">命令</td><td>ты</td><td>нра&#769;вь<span style="color:red">ся</span></td></tr>
+        <tr><td>вы</td><td>нра&#769;вь<span style="color:red">тесь</span></td></tr>
+      </tbody>
+    </table>
+
+
   </div>
   <div class="text-box">
     <h2>形容詞</h2>
