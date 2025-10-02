@@ -492,7 +492,7 @@
 
 
     <br>
-    <p>中性名詞においては基本的に 対格 = 主格 です</p>
+    <p>中性名詞は不活動体名詞がほとんどなので、基本的に 対格 = <span style="color: blue;">主格</span> です</p>
   </div>
   <div class="text-box">
     <h2>動詞</h2>
@@ -565,7 +565,7 @@
       </thead>
       <tbody>
         <tr><td>不定形</td><td>-</td><td>нра&#769;виться</td></tr>
-        <tr><td rowspan="6">現在</td><td>я</td><td>нра&#769;влю<span style="color:red">сь</span></td></tr>
+        <tr><td rowspan="6">現在</td><td>я</td><td>нра&#769;вл<span style="color:red">юсь</span></td></tr>
         <tr><td>ты</td><td>нра&#769;в<span style="color:red">ишься</span></td></tr>
         <tr><td>он/она/оно</td><td>нра&#769;в<span style="color:red">ится</span></td></tr>
         <tr><td>мы</td><td>нра&#769;в<span style="color:red">имся</span></td></tr>
@@ -590,6 +590,8 @@
     <p>一度アクセントが移動するとその後の変化においてアクセントは移動したままです</p>
     <br>
     <p>-ить,-етьは第二変化のものが多い傾向にありますが、絶対ではないので単語ごとに覚えなければなりません</p>
+    <br>
+    <p>再帰動詞は不定形からсяをとってから第1変化,第2変化に従って語尾を変化させ、後ろにсяやсьが付きます</p>
   </div>
   <div class="text-box">
     <h2>形容詞</h2>
