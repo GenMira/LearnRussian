@@ -101,14 +101,137 @@
   </div>
   <div class="text-box">
     <h2>不規則</h2>
-    <p>жить</p><p>住む、生きる</p>
-    <p>идти́</p><p>行く</p>
-    <p>хотеть</p><p>欲する</p>
-    <p>есть</p><p>食べる</p>
-    <p>дать</p><p>与える</p>
-
-
-
+    <br>
+    <table class="center-table">
+      <caption>現在形</caption>
+      <thead>
+        <tr>
+          <!-- я	ты	он / оно	она	мы	вы	они -->
+          <th>語句</th>
+          <th>意味</th>
+          <th>я</th>
+          <th>ты</th>
+          <th>он<br>она<br>оно</th>
+          <th>мы</th>
+          <th>вы</th>
+          <th>они</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>жить</td>
+          <td>生きる</td>
+          <td>жив<span style="color:red">у́</span></td>
+          <td>жив<span style="color:red">ёшь</span></td>
+          <td>жив<span style="color:red">ёт</span></td>
+          <td>жив<span style="color:red">ём</span></td>
+          <td>жив<span style="color:red">ёте</span></td>
+          <td>жив<span style="color:red">у́т</span></td>
+        </tr>
+        <tr>
+          <td>идти́</td>
+          <td>行く</td>
+          <td>ид<span style="color:red">у́</span></td>
+          <td>ид<span style="color:red">ёшь</span></td>
+          <td>ид<span style="color:red">ёт</span></td>
+          <td>ид<span style="color:red">ём</span></td>
+          <td>ид<span style="color:red">ёте</span></td>
+          <td>ид<span style="color:red">у́т</span></td>
+        </tr>
+        <tr>
+          <td>хоте́ть</td>
+          <td>欲する</td>
+          <td>хоч<span style="color:red">у́</span></td>
+          <td>хо́ч<span style="color:red">ешь</span></td>
+          <td>хо́ч<span style="color:red">ет</span></td>
+          <td>хот<span style="color:red">и́м</span></td>
+          <td>хот<span style="color:red">и́те</span></td>
+          <td>хо́т<span style="color:red">ят</span></td>
+        </tr>
+        <tr>
+          <td>есть</td>
+          <td>食べる</td>
+          <td>е<span style="color:red">м</span></td>
+          <td>е<span style="color:red">шь</span></td>
+          <td>е<span style="color:red">ст</span></td>
+          <td>еди́<span style="color:red">м</span></td>
+          <td>еди́<span style="color:red">те</span></td>
+          <td>ед<span style="color:red">я́т</span></td>
+        </tr>
+        <tr>
+          <td>дать</td>
+          <td>与える</td>
+          <td>да<span style="color:red">м</span></td>
+          <td>да<span style="color:red">шь</span></td>
+          <td>да<span style="color:red">ст</span></td>
+          <td>да<span style="color:red">ди́м</span></td>
+          <td>да<span style="color:red">ди́те</span></td>
+          <td>да<span style="color:red">дут</span></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <table class="center-table">
+      <caption>過去形・命令形</caption>
+      <thead>
+        <tr>
+          <th>語句</th>
+          <th>男過</th>
+          <th>女過</th>
+          <th>中過</th>
+          <th>複過</th>
+          <th>命令</th>
+          <th>備考</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>жить</td>
+          <td>жи<span style="color:red">л</span></td>
+          <td>жи<span style="color:red">ла́</span></td>
+          <td>жи́<span style="color:red">ло́</span></td>
+          <td>жи&#769;<span style="color:red">ли</span></td>
+          <td>жив<span style="color:red">и́</span>, жив<span style="color:red">и́те</span></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>идти́</td>
+          <td>шёл</td>
+          <td>шла</td>
+          <td>шло</td>
+          <td>шли</td>
+          <td>ид<span style="color:red">и́</span>, ид<span style="color:red">и́те</span></td>
+          <td>不規則</td>
+        </tr>
+        <tr>
+          <td>хоте́ть</td>
+          <td>хоте́<span style="color:red">л</span></td>
+          <td>хоте&#769;<span style="color:red">ла</span></td>
+          <td>хоте́<span style="color:red">ло</span></td>
+          <td>хоте&#769;<span style="color:red">ли</span></td>
+          <td>（通常なし）</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>есть</td>
+          <td>е<span style="color:red">л</span></td>
+          <td>е&#769;<span style="color:red">ла</span></td>
+          <td>е&#769;<span style="color:red">ло</span></td>
+          <td>е&#769;<span style="color:red">ли</span></td>
+          <td>е<span style="color:red">шь</span>, е&#769;<span style="color:red">шьте</span></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>дать</td>
+          <td>да<span style="color:red">л</span></td>
+          <td>да<span style="color:red">ла́</span></td>
+          <td>да&#769;<span style="color:red">ло&#769;</span></td>
+          <td>да&#769;<span style="color:red">ли</span></td>
+          <td>да<span style="color:red">й</span>, да<span style="color:red">йте</span></td>
+          <td>命令形頻用</td>
+        </tr>
+      </tbody>
+    </table>
     <p>--------------------------------------</p>
 
     <p>быть</p><p>である</p>

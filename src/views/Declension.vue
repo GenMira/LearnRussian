@@ -548,12 +548,12 @@
         <tr><td>вы</td><td>смо&#769;тр<span style="color:red">ите</span></td></tr>
         <tr><td>они</td><td>смо&#769;тр<span style="color:red">ят</span></td></tr>
 
-        <tr><td rowspan="4">過去</td><td>он</td><td>смотр<span style="color:red">е&#769;л</span></td></tr>
-        <tr><td>она</td><td>смотр<span style="color:red">е&#769;ла</span></td></tr>
-        <tr><td>оно</td><td>смотр<span style="color:red">е&#769;ло</span></td></tr>
-        <tr><td>они</td><td>смотр<span style="color:red">е&#769;ли</span></td></tr>
+        <tr><td rowspan="4">過去</td><td>он</td><td>смотре&#769;<span style="color:red">л</span></td></tr>
+        <tr><td>она</td><td>смотре&#769;<span style="color:red">ла</span></td></tr>
+        <tr><td>оно</td><td>смотре&#769;<span style="color:red">ло</span></td></tr>
+        <tr><td>они</td><td>смотре&#769;<span style="color:red">ли</span></td></tr>
 
-        <tr><td rowspan="2">命令</td><td>ты</td><td>смотри&#769;<span style="color:red"></span></td></tr>
+        <tr><td rowspan="2">命令</td><td>ты</td><td>смотр<span style="color:red">и&#769;</span></td></tr>
         <tr><td>вы</td><td>смотр<span style="color:red">и&#769;те</span></td></tr>
       </tbody>
     </table>
