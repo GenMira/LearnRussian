@@ -1,7 +1,7 @@
 <template>
   <div class="textCenterizer">
     <h1>Список Существительных</h1>
-    <p>ここには名詞に関する単語をまとめます</p>
+    <p>ここには名詞をまとめます</p>
     <br>
     <router-link to="/LearnRussian/vocabulary">
       < 戻る
