@@ -1,7 +1,7 @@
 <template>
   <div class="textCenterizer">
     <h1>Урок по Грамматике</h1>
-    <p>ここには文法についてまとめます。</p>
+    <p>ここには文法についてまとめます</p>
   </div>
   <div>
     <div class="text-box">
@@ -363,6 +363,9 @@
     </div>
     <div class="text-box">
       <h2>未来形</h2>
+    </div>
+    <div class="text-box">
+      <h2>正書法</h2>
     </div>
     <div class="text-box" id="declension">
       <h2>格変化</h2>

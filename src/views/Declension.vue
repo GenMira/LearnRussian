@@ -1,7 +1,7 @@
 <template>
   <div class="textCenterizer">
-    <h1>Cписок по Cклонению</h1>
-    <p>ここでは格変化を一覧にしてまとめます。</p>
+    <h1>Список Изменений Слов</h1>
+    <p>ここでは格変化や語尾変化など、ロシア語における単語の変化を一覧にしてまとめます</p>
   </div>
   <div class="text-box">
     <h2>人称代名詞</h2>
@@ -492,7 +492,7 @@
 
 
     <br>
-    <p>中性名詞においては基本的に 対格 = 主格 です</p>
+    <p>中性名詞は不活動体名詞がほとんどなので、基本的に 対格 = <span style="color: blue;">主格</span> です</p>
   </div>
   <div class="text-box">
     <h2>動詞</h2>
@@ -548,12 +548,12 @@
         <tr><td>вы</td><td>смо&#769;тр<span style="color:red">ите</span></td></tr>
         <tr><td>они</td><td>смо&#769;тр<span style="color:red">ят</span></td></tr>
 
-        <tr><td rowspan="4">過去</td><td>он</td><td>смотр<span style="color:red">е&#769;л</span></td></tr>
-        <tr><td>она</td><td>смотр<span style="color:red">е&#769;ла</span></td></tr>
-        <tr><td>оно</td><td>смотр<span style="color:red">е&#769;ло</span></td></tr>
-        <tr><td>они</td><td>смотр<span style="color:red">е&#769;ли</span></td></tr>
+        <tr><td rowspan="4">過去</td><td>он</td><td>смотре&#769;<span style="color:red">л</span></td></tr>
+        <tr><td>она</td><td>смотре&#769;<span style="color:red">ла</span></td></tr>
+        <tr><td>оно</td><td>смотре&#769;<span style="color:red">ло</span></td></tr>
+        <tr><td>они</td><td>смотре&#769;<span style="color:red">ли</span></td></tr>
 
-        <tr><td rowspan="2">命令</td><td>ты</td><td>смотри&#769;<span style="color:red"></span></td></tr>
+        <tr><td rowspan="2">命令</td><td>ты</td><td>смотр<span style="color:red">и&#769;</span></td></tr>
         <tr><td>вы</td><td>смотр<span style="color:red">и&#769;те</span></td></tr>
       </tbody>
     </table>
@@ -565,7 +565,7 @@
       </thead>
       <tbody>
         <tr><td>不定形</td><td>-</td><td>нра&#769;виться</td></tr>
-        <tr><td rowspan="6">現在</td><td>я</td><td>нра&#769;влю<span style="color:red">сь</span></td></tr>
+        <tr><td rowspan="6">現在</td><td>я</td><td>нра&#769;вл<span style="color:red">юсь</span></td></tr>
         <tr><td>ты</td><td>нра&#769;в<span style="color:red">ишься</span></td></tr>
         <tr><td>он/она/оно</td><td>нра&#769;в<span style="color:red">ится</span></td></tr>
         <tr><td>мы</td><td>нра&#769;в<span style="color:red">имся</span></td></tr>
@@ -590,6 +590,8 @@
     <p>一度アクセントが移動するとその後の変化においてアクセントは移動したままです</p>
     <br>
     <p>-ить,-етьは第二変化のものが多い傾向にありますが、絶対ではないので単語ごとに覚えなければなりません</p>
+    <br>
+    <p>再帰動詞は不定形からсяをとってから第1変化,第2変化に従って語尾を変化させ、後ろにсяやсьが付きます</p>
   </div>
   <div class="text-box">
     <h2>形容詞</h2>
@@ -760,19 +762,117 @@
     <p>硬変化は語幹が硬母音で終わるもの、軟変化は語幹が軟音で終わるものです</p>
     <p>硬変化では語尾に硬母音、軟変化では語尾に軟母音が使われます</p>
     <br>
-    <p>形容詞の対格は男性単数と複数において、形容詞がつく名詞が活動体名詞か不活動体名詞かによって変わります</p>
+    <p>形容詞の対格も形容詞がつく名詞が活動体名詞か不活動体名詞かによって変わります</p>
     <br>
-    <h3>- 活動体名詞</h3>
-    <p>男性単数 : 対格 = 生格</p>
-    <p>複数 : 対格 = 生格</p>
-    <br>
-    <h3>- 不活動体名詞</h3>
-    <p>男性単数 : 対格 = 主格</p>
-    <p>複数 : 対格 = 主格</p>
+    <p><span style="color:orange">活動体名詞</span> : 対格 = <span style="color: orange;">生格</span></p>
+    <p><span style="color:blue">不活動体名詞</span> : 対格 = <span style="color: blue;">主格</span></p>
   </div>
   <div class="text-box">
     <h2>所有代名詞</h2>
-    <p>以下工事中</p>
+    <br>
+    <table class="center-table">
+      <tr>
+        <th rowspan="2">格</th>
+        <th colspan="4">мой（私の）</th>
+        <th colspan="4">твой（君の）</th>
+      </tr>
+      <tr>
+        <th>男</th><th>中</th><th>女</th><th>複</th>
+        <th>男</th><th>中</th><th>女</th><th>複</th>
+      </tr>
+
+      <tr>
+        <td>主格</td>
+        <td>мой</td><td>мо<span style="color:red;">ё</span></td><td>мо<span style="color:red;">я</span></td><td>мо<span style="color:red;">и</span></td>
+        <td>твой</td><td>тво<span style="color:red;">ё</span></td><td>тво<span style="color:red;">я</span></td><td>тво<span style="color:red;">и</span></td>
+      </tr>
+
+      <tr>
+        <td>生格</td>
+        <td>мо<span style="color:red;">его</span></td><td>мо<span style="color:red;">его</span></td><td>мо<span style="color:red;">ей</span></td><td>мо<span style="color:red;">их</span></td>
+        <td>тво<span style="color:red;">его</span></td><td>тво<span style="color:red;">его</span></td><td>тво<span style="color:red;">ей</span></td><td>тво<span style="color:red;">их</span></td>
+      </tr>
+
+      <tr>
+        <td>与格</td>
+        <td>мо<span style="color:red;">ему</span></td><td>мо<span style="color:red;">ему</span></td><td>мо<span style="color:red;">ей</span></td><td>мо<span style="color:red;">им</span></td>
+        <td>тво<span style="color:red;">ему</span></td><td>тво<span style="color:red;">ему</span></td><td>тво<span style="color:red;">ей</span></td><td>тво<span style="color:red;">им</span></td>
+      </tr>
+
+      <tr>
+        <td>対格</td>
+        <td>мой <br> мо<span style="color:red;">его</span></td><td>мо<span style="color:red;">ё</span></td><td>мо<span style="color:red;">ю</span></td><td>мо<span style="color:red;">и</span> <br> мо<span style="color:red;">их</span></td>
+        <td>твой <br> тво<span style="color:red;">его</span></td><td>тво<span style="color:red;">ё</span></td><td>тво<span style="color:red;">ю</span></td><td>тво<span style="color:red;">и</span> <br> тво<span style="color:red;">их</span></td>
+      </tr>
+
+      <tr>
+        <td>造格</td>
+        <td>мо<span style="color:red;">им</span></td><td>мо<span style="color:red;">им</span></td><td>мо<span style="color:red;">ей</span></td><td>мо<span style="color:red;">ими</span></td>
+        <td>тво<span style="color:red;">им</span></td><td>тво<span style="color:red;">им</span></td><td>тво<span style="color:red;">ей</span></td><td>тво<span style="color:red;">ими</span></td>
+      </tr>
+      <tr>
+        <td>前置格</td>
+        <td>мо<span style="color:red;">ём</span></td><td>мо<span style="color:red;">ём</span></td><td>мо<span style="color:red;">ей</span></td><td>мо<span style="color:red;">их</span></td>
+        <td>тво<span style="color:red;">ём</span></td><td>тво<span style="color:red;">ём</span></td><td>тво<span style="color:red;">ей</span></td><td>тво<span style="color:red;">их</span></td>
+      </tr>
+    </table>
+    <br>
+    <table class="center-table">
+      <tr>
+        <th rowspan="2">格</th>
+        <th colspan="4">наш（私たちの）</th>
+        <th colspan="4">ваш（あなた（たち）の）</th>
+      </tr>
+      <tr>
+        <th>男</th><th>中</th><th>女</th><th>複</th>
+        <th>男</th><th>中</th><th>女</th><th>複</th>
+      </tr>
+
+      <tr>
+        <td>主格</td>
+        <td>наш</td><td>наш<span style="color:red;">е</span></td><td>наш<span style="color:red;">а</span></td><td>наш<span style="color:red;">и</span></td>
+        <td>ваш</td><td>ваш<span style="color:red;">е</span></td><td>ваш<span style="color:red;">а</span></td><td>ваш<span style="color:red;">и</span></td>
+      </tr>
+
+      <tr>
+        <td>生格</td>
+        <td>наш<span style="color:red;">его</span></td><td>наш<span style="color:red;">его</span></td><td>наш<span style="color:red;">ей</span></td><td>наш<span style="color:red;">их</span></td>
+        <td>ваш<span style="color:red;">его</span></td><td>ваш<span style="color:red;">его</span></td><td>ваш<span style="color:red;">ей</span></td><td>ваш<span style="color:red;">их</span></td>
+      </tr>
+
+      <tr>
+        <td>与格</td>
+        <td>наш<span style="color:red;">ему</span></td><td>наш<span style="color:red;">ему</span></td><td>наш<span style="color:red;">ей</span></td><td>наш<span style="color:red;">им</span></td>
+        <td>ваш<span style="color:red;">ему</span></td><td>ваш<span style="color:red;">ему</span></td><td>ваш<span style="color:red;">ей</span></td><td>ваш<span style="color:red;">им</span></td>
+      </tr>
+
+      <tr>
+        <td>対格</td>
+        <td>наш <br> наш<span style="color:red;">его</span></td><td>наш<span style="color:red;">е</span></td><td>наш<span style="color:red;">у</span></td><td>наш<span style="color:red;">и</span> <br> наш<span style="color:red;">их</span></td>
+        <td>ваш <br> ваш<span style="color:red;">его</span></td><td>ваш<span style="color:red;">е</span></td><td>ваш<span style="color:red;">у</span></td><td>ваш<span style="color:red;">и</span> <br> ваш<span style="color:red;">их</span></td>
+      </tr>
+
+      <tr>
+        <td>造格</td>
+        <td>наш<span style="color:red;">им</span></td><td>наш<span style="color:red;">им</span></td><td>наш<span style="color:red;">ей</span></td><td>наш<span style="color:red;">ими</span></td>
+        <td>ваш<span style="color:red;">им</span></td><td>ваш<span style="color:red;">им</span></td><td>ваш<span style="color:red;">ей</span></td><td>ваш<span style="color:red;">ими</span></td>
+      </tr>
+
+      <tr>
+        <td>前置格</td>
+        <td>наш<span style="color:red;">ем</span></td><td>наш<span style="color:red;">ем</span></td><td>наш<span style="color:red;">ей</span></td><td>наш<span style="color:red;">их</span></td>
+        <td>ваш<span style="color:red;">ем</span></td><td>ваш<span style="color:red;">ем</span></td><td>ваш<span style="color:red;">ей</span></td><td>ваш<span style="color:red;">их</span></td>
+      </tr>
+    </table>
+
+    <br>
+    <p>его,её,ихは不変化</p>
+    <br>
+    <p>また例の如く所有代名詞も</p>
+    <p><span style="color:orange">活動体名詞</span> : 対格 = <span style="color: orange;">生格</span></p>
+    <p><span style="color:blue">不活動体名詞</span> : 対格 = <span style="color: blue;">主格</span></p>
+
+
 
   </div>
 </template>
