@@ -28,7 +28,7 @@
 
       <router-link to="/LearnRussian/vocabulary/pronoun"class="category-button">
         <!-- <img src="/src/assets/letter.jpg" alt="Letter" class="button-image" /> -->
-        <span class="button-text">代名詞、疑問詞</span>
+        <span class="button-text">代名詞</span>
       </router-link>
     </div>
   </div>
