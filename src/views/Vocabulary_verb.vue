@@ -13,7 +13,7 @@
     <br>
     <table class="center-table">
       <thead>
-        <tr>
+        <tr style="background-color:#f0f0f0;">
           <th>語句</th>
           <th>意味</th>
           <th>備考</th>
@@ -121,7 +121,7 @@
     <br>
     <table class="center-table">
       <thead>
-        <tr>
+        <tr style="background-color:#f0f0f0;">
           <th>語句</th>
           <th>意味</th>
           <th>備考</th>
@@ -202,7 +202,7 @@
     <table class="center-table">
       <caption>現在形</caption>
       <thead>
-        <tr>
+        <tr style="background-color:#f0f0f0;">
           <!-- я	ты	он / оно	она	мы	вы	они -->
           <th>語句</th>
           <th>意味</th>
@@ -301,7 +301,7 @@
     <table class="center-table">
       <caption>過去形・命令形(不規則なものだけ)</caption>
       <thead>
-        <tr>
+        <tr style="background-color:#f0f0f0;">
           <th>語句</th>
           <th>男過</th>
           <th>女過</th>

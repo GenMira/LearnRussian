@@ -11,7 +11,7 @@
   <div class="text-box">
     <table class="center-table">
       <thead>
-        <tr>
+        <tr style="background-color:#f0f0f0;">
           <th>前置詞</th>
           <th>格</th>
           <th>意味</th>
