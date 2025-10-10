@@ -124,52 +124,45 @@
         </tr>
       </thead>
       <tbody>
-        <tr><td>дом</td><td>家</td><td>м</td><td>基本の場所語</td></tr>
-        <tr><td>квартира</td><td>アパート</td><td>ж</td><td>住居を表す</td></tr>
-        <tr><td>комната</td><td>部屋</td><td>ж</td><td>室内を示す</td></tr>
+        <tr><td>до&#769;м</td><td>家</td><td>м</td><td></td></tr>
+        <tr><td>кварти&#769;ра</td><td>アパート</td><td>ж</td><td>ロシアでは一軒家よりもアパートの方が一般的</td></tr>
+        <tr><td>ко&#769;мната</td><td>部屋</td><td>ж</td><td></td></tr>
         <tr><td>дверь</td><td>ドア</td><td>ж</td><td>不規則な硬音/軟音注意</td></tr>
-        <tr><td>окно</td><td>窓</td><td>с</td><td>中性名詞の典型</td></tr>
-        <tr><td>стол</td><td>机</td><td>м</td><td>教室語彙によく出る</td></tr>
-        <tr><td>стул</td><td>椅子</td><td>м</td><td>家具語</td></tr>
-        <tr><td>кровать</td><td>ベッド</td><td>ж</td><td>語尾 -ь の女性名詞</td></tr>
-        <tr><td>диван</td><td>ソファ</td><td>м</td><td>借用語</td></tr>
-        <tr><td>лампа</td><td>ランプ</td><td>ж</td><td>家庭語彙</td></tr>
+        <tr><td>окно&#769;</td><td>窓</td><td>с</td><td></td></tr>
+        <tr><td>стол</td><td>机</td><td>м</td><td></td></tr>
+        <tr><td>стул</td><td>椅子</td><td>м</td><td></td></tr>
+        <tr><td>крова&#769;ть</td><td>ベッド</td><td>ж</td><td></td></tr>
+        <tr><td>дива&#769;н</td><td>ソファー</td><td>м</td><td></td></tr>
+        <tr><td>ла&#769;мпа</td><td>ランプ</td><td>ж</td><td></td></tr>
 
-        <tr><td>шкаф</td><td>戸棚・タンス</td><td>м</td><td>家具</td></tr>
-        <tr><td>пол</td><td>床</td><td>м</td><td>建物語彙</td></tr>
-        <tr><td>потолок</td><td>天井</td><td>м</td><td>建築語</td></tr>
-        <tr><td>стена</td><td>壁</td><td>ж</td><td>建築語</td></tr>
-        <tr><td>часы</td><td>時計</td><td>мн</td><td>複数形で使う（単複同形扱い）</td></tr>
+        <tr><td>шкаф</td><td>戸棚・タンス</td><td>м</td><td></td></tr>
+        <tr><td>пол</td><td>床</td><td>м</td><td></td></tr>
+        <tr><td>потоло&#769;к</td><td>天井</td><td>м</td><td></td></tr>
+        <tr><td>стена&#769;</td><td>壁</td><td>ж</td><td></td></tr>
+        <tr><td>часы&#769;</td><td>時計</td><td>мн</td><td>複数形で使う（単複同形扱い）</td></tr>
 
-        <tr><td>человек</td><td>人間／人</td><td>м</td><td>頻出語</td></tr>
-        <tr><td>мужчина</td><td>男性</td><td>м</td><td>人を表す</td></tr>
-        <tr><td>женщина</td><td>女性</td><td>ж</td><td>人を表す</td></tr>
-        <tr><td>ребёнок</td><td>子ども</td><td>м</td><td>不規則な発音注意</td></tr>
-        <tr><td>семья</td><td>家族</td><td>ж</td><td>複数扱いの語形変化注意</td></tr>
+        <tr><td>мать</td><td>母</td><td>ж</td><td></td></tr>
+        <tr><td>отец&#769;</td><td>父</td><td>м</td><td>不規則変化<br>一単生отца́</td></tr>
+        <tr><td>сын</td><td>息子</td><td>м</td><td></td></tr>
+        <tr><td>дочь</td><td>娘</td><td>ж</td><td></td></tr>
+        <tr><td>брат</td><td>兄／弟</td><td>м</td><td></td></tr>
 
-        <tr><td>мать</td><td>母</td><td>ж</td><td>家族語</td></tr>
-        <tr><td>отец</td><td>父</td><td>м</td><td>家族語</td></tr>
-        <tr><td>сын</td><td>息子</td><td>м</td><td>家族語</td></tr>
-        <tr><td>дочь</td><td>娘</td><td>ж</td><td>語尾 -ь の女性名詞</td></tr>
-        <tr><td>брат</td><td>兄／弟</td><td>м</td><td>家族語</td></tr>
+        <tr><td>сестра&#769;</td><td>姉／妹</td><td>ж</td><td></td></tr>
+        <tr><td>подру&#769;га</td><td>女友達、彼女</td><td>ж</td><td></td></tr>
+        <tr><td>студе&#769;нт</td><td>学生（男）</td><td>м</td><td></td></tr>
+        <tr><td>студе&#769;нтка</td><td>学生（女）</td><td>ж</td><td></td></tr>
 
-        <tr><td>сестра</td><td>姉／妹</td><td>ж</td><td>家族語</td></tr>
-        <tr><td>друг</td><td>友人（男性）</td><td>м</td><td>親しい関係で使う</td></tr>
-        <tr><td>подруга</td><td>友人（女性）</td><td>ж</td><td>女性版</td></tr>
-        <tr><td>студент</td><td>学生（男）</td><td>м</td><td>学習語彙</td></tr>
-        <tr><td>студентка</td><td>学生（女）</td><td>ж</td><td>女性形</td></tr>
+        <tr><td>шко&#769;ла</td><td>学校</td><td>ж</td><td></td></tr>
+        <tr><td>универси&#769;тет</td><td>大学</td><td>м</td><td></td></tr>
+        <tr><td>уро&#769;к</td><td>授業</td><td>м</td><td></td></tr>
+        <tr><td>кни&#769;га</td><td>本</td><td>ж</td><td></td></tr>
+        <tr><td>тетра&#769;дь</td><td>ノート</td><td>ж</td><td></td></tr>
 
-        <tr><td>школа</td><td>学校</td><td>ж</td><td>教育関連語</td></tr>
-        <tr><td>университет</td><td>大学</td><td>м</td><td>高等教育</td></tr>
-        <tr><td>урок</td><td>授業</td><td>м</td><td>授業関連</td></tr>
-        <tr><td>книга</td><td>本</td><td>ж</td><td>教材語</td></tr>
-        <tr><td>тетрадь</td><td>ノート</td><td>ж</td><td>語尾 -ь の女性名詞</td></tr>
-
-        <tr><td>ручка</td><td>ペン</td><td>ж</td><td>文房具</td></tr>
-        <tr><td>карандаш</td><td>鉛筆</td><td>м</td><td>文房具</td></tr>
-        <tr><td>бумага</td><td>紙</td><td>ж</td><td>不可算名詞扱い</td></tr>
-        <tr><td>учитель</td><td>先生（男）</td><td>м</td><td>職業語</td></tr>
-        <tr><td>учительница</td><td>先生（女）</td><td>ж</td><td>女性形</td></tr>
+        <tr><td>ру&#769;чка</td><td>ペン</td><td>ж</td><td></td></tr>
+        <tr><td>каранда&#769;ш</td><td>鉛筆</td><td>м</td><td>シャーペンは鉛筆とみなす</td></tr>
+        <tr><td>бума&#769;га</td><td>紙</td><td>ж</td><td>不可算名詞扱い</td></tr>
+        <tr><td>учи&#769;тель</td><td>先生（男）</td><td>м</td><td></td></tr>
+        <tr><td>учи&#769;тельница</td><td>先生（女）</td><td>ж</td><td></td></tr>
 
         <tr><td>работа</td><td>仕事</td><td>ж</td><td>不可算/可算両用</td></tr>
         <tr><td>офис</td><td>オフィス</td><td>м</td><td>職場語</td></tr>
