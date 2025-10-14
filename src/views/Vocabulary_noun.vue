@@ -113,6 +113,107 @@
     </table>
   </div>
   <div class="text-box">
+    <h2>数</h2>
+    <br>
+    <table class="center-table">
+      <tr style="background-color:#f0f0f0;">
+        <th>数詞（アクセント付き）</th>
+        <th>意味（日本語）</th>
+      </tr>
+
+      <!-- 1〜10 -->
+      <tr><td>оди́н</td><td>1</td></tr>
+      <tr><td>два́</td><td>2</td></tr>
+      <tr><td>три́</td><td>3</td></tr>
+      <tr><td>четы́ре</td><td>4</td></tr>
+      <tr><td>пять</td><td>5</td></tr>
+      <tr><td>ше́сть</td><td>6</td></tr>
+      <tr><td>се́мь</td><td>7</td></tr>
+      <tr><td>во́семь</td><td>8</td></tr>
+      <tr><td>де́вять</td><td>9</td></tr>
+      <tr><td>де́сять</td><td>10</td></tr>
+
+      <!-- 11〜20 -->
+      <tr><td>оди́ннадцать</td><td>11</td></tr>
+      <tr><td>двена́дцать</td><td>12</td></tr>
+      <tr><td>трина́дцать</td><td>13</td></tr>
+      <tr><td>четырна́дцать</td><td>14</td></tr>
+      <tr><td>пятна́дцать</td><td>15</td></tr>
+      <tr><td>шестна́дцать</td><td>16</td></tr>
+      <tr><td>семна́дцать</td><td>17</td></tr>
+      <tr><td>восемна́дцать</td><td>18</td></tr>
+      <tr><td>девятна́дцать</td><td>19</td></tr>
+      <tr><td>два́дцать</td><td>20</td></tr>
+
+      <!-- 30〜1000 -->
+      <tr><td>три́дцать</td><td>30</td></tr>
+      <tr><td>со́рок</td><td>40</td></tr>
+      <tr><td>пятьдеся́т</td><td>50</td></tr>
+      <tr><td>ше́стьдесят</td><td>60</td></tr>
+      <tr><td>се́мьдесят</td><td>70</td></tr>
+      <tr><td>во́семьдесят</td><td>80</td></tr>
+      <tr><td>девяно́сто</td><td>90</td></tr>
+      <tr><td>сто</td><td>100</td></tr>
+      <tr><td>ты́сяча</td><td>1000</td></tr>
+    </table>
+  </div>
+  <div class="text-box">
+    <h2>曜日</h2>
+    <br>
+    <table class="center-table">
+      <tr style="background-color:#f0f0f0;">
+        <th>ロシア語（アクセント付き）</th>
+        <th>略語</th>
+        <th>日本語</th>
+        <th>起源・意味</th>
+      </tr>
+      <tr>
+        <td>понеде́льник</td>
+        <td>пн</td>
+        <td>月曜日</td>
+        <td>「неде́ля（週）」の後 →「週の後の日」</td>
+      </tr>
+      <tr>
+        <td>вто́рник</td>
+        <td>вт</td>
+        <td>火曜日</td>
+        <td>「второ́й（二番目）」 →「2番目の日」</td>
+      </tr>
+      <tr>
+        <td>сре́да</td>
+        <td>ср</td>
+        <td>水曜日</td>
+        <td>「середа́（真ん中）」 →「週の中日」</td>
+      </tr>
+      <tr>
+        <td>четве́рг</td>
+        <td>чт</td>
+        <td>木曜日</td>
+        <td>「четы́ре（4）」 →「4番目の日」</td>
+      </tr>
+      <tr>
+        <td>пя́тница</td>
+        <td>пт</td>
+        <td>金曜日</td>
+        <td>「пять（5）」 →「5番目の日」</td>
+      </tr>
+      <tr>
+        <td>суббо́та</td>
+        <td>сб</td>
+        <td>土曜日</td>
+        <td>ヘブライ語「שַׁבָּת（シャバット）」→休息の日</td>
+      </tr>
+      <tr>
+        <td>воскресе́нье</td>
+        <td>вс</td>
+        <td>日曜日</td>
+        <td>「воскресе́ние（復活）」か→「キリストの復活の日」</td>
+      </tr>
+    </table>
+
+
+  </div>
+  <div class="text-box">
     <table class="center-table">
       <caption><b>ロシア語初学者が覚えるべき名詞（100）</b></caption>
       <thead>
