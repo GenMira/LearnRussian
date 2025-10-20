@@ -103,12 +103,18 @@
           <td>女</td>
           <td></td>
         </tr>
-        <tr>
-          <td>друг</td>
-          <td>友達</td>
-          <td>男</td>
-          <td>複: друзья&#769;</td>
-        </tr>
+        <tr><td>мать</td><td>母</td><td>ж</td><td></td></tr>
+        <tr><td>отец&#769;</td><td>父</td><td>м</td><td>不規則変化<br>一単生отца́</td></tr>
+        <tr><td>сын</td><td>息子</td><td>м</td><td></td></tr>
+        <tr><td>дочь</td><td>娘</td><td>ж</td><td></td></tr>
+        <tr><td>брат</td><td>兄／弟</td><td>м</td><td></td></tr>
+        <tr><td>сестра&#769;</td><td>姉／妹</td><td>ж</td><td></td></tr>
+        <tr><td>друг</td><td>友達</td><td>男</td><td>複: друзья&#769;</td></tr>
+        <tr><td>подру&#769;га</td><td>女友達、彼女</td><td>ж</td><td></td></tr>
+        <tr><td>студе&#769;нт</td><td>学生（男）</td><td>м</td><td></td></tr>
+        <tr><td>студе&#769;нтка</td><td>学生（女）</td><td>ж</td><td></td></tr>
+        <tr><td>учи&#769;тель</td><td>先生（男）</td><td>м</td><td></td></tr>
+        <tr><td>учи&#769;тельница</td><td>先生（女）</td><td>ж</td><td></td></tr>
       </tbody>
     </table>
   </div>
@@ -158,9 +164,30 @@
     </table>
   </div>
   <div class="text-box">
-    <h2>曜日</h2>
+    <h2>日付・時間</h2>
     <br>
     <table class="center-table">
+      <caption>時間</caption>
+      <tr style="background-color:#f0f0f0;">
+          <th>語句</th>
+          <th>意味</th>
+          <th>性</th>
+          <th>備考</th>
+      </tr>
+      <tr><td>день</td><td>日・昼</td><td>м</td><td></td></tr>
+
+      <tr><td>ночь</td><td>夜</td><td>ж</td><td></td></tr>
+      <tr><td>у&#769;тро</td><td>朝</td><td>с</td><td></td></tr>
+      <tr><td>ве&#769;чер</td><td>夕方、晩</td><td>м</td><td></td></tr>
+      <tr><td>неде&#769;ля</td><td>週</td><td>ж</td><td></td></tr>
+      <tr><td>ме&#769;сяц</td><td>月（期間）</td><td>м</td><td></td></tr>
+
+      <tr><td>год</td><td>年</td><td>м</td><td></td></tr>
+      <tr><td>вре&#769;мя</td><td>時間</td><td>с</td><td></td></tr>
+    </table>
+    <br>
+    <table class="center-table">
+      <caption>曜日</caption>
       <tr style="background-color:#f0f0f0;">
         <th>ロシア語（アクセント付き）</th>
         <th>略語</th>
@@ -214,8 +241,8 @@
 
   </div>
   <div class="text-box">
+    <h2>食べ物</h2>
     <table class="center-table">
-      <caption><b>ロシア語初学者が覚えるべき名詞（100）</b></caption>
       <thead>
         <tr style="background-color:#f0f0f0;">
           <th>語句</th>
@@ -225,8 +252,75 @@
         </tr>
       </thead>
       <tbody>
+        <tr><td>еда&#769;</td><td>食べ物、食事</td><td>ж</td><td>不可算</td></tr>
+        <tr><td>хлеб</td><td>パン</td><td>м</td><td></td></tr>
+        <tr><td>суп</td><td>スープ</td><td>м</td><td></td></tr>
+        <tr><td>мя&#769;со</td><td>肉</td><td>с</td><td>不可算</td></tr>
+        <tr><td>ры&#769;ба</td><td>魚</td><td>ж</td><td></td></tr>
+        <tr><td>яйцо&#769;</td><td>卵</td><td>с</td><td></td></tr>
+        <tr><td>молоко&#769;</td><td>牛乳</td><td>с</td><td></td></tr>
+        <tr><td>вода&#769;</td><td>水、液体</td><td>ж</td><td>不可算</td></tr>
+        <tr><td>чай</td><td>お茶</td><td>м</td><td></td></tr>
+        <tr><td>ко&#769;фе</td><td>コーヒー</td><td>м</td><td>変化しない</td></tr>
+        <tr><td>я&#769;блоко</td><td>りんご</td><td>с</td><td></td></tr>
+        <tr><td>бана&#769;н</td><td>バナナ</td><td>м</td><td></td></tr>
+        <tr><td>о&#769;вощ</td><td>野菜</td><td>м</td><td></td></tr>
+        <tr><td>фру&#769;кт</td><td>果物</td><td>м</td><td></td></tr>
+        <tr><td>са&#769;хар</td><td>砂糖</td><td>м</td><td>不可算</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="text-box">
+    <h2>建物に関わる言葉</h2>
+    <table class="center-table">
+      <caption>場所</caption>
+      <thead>
+        <tr style="background-color:#f0f0f0;">
+          <th>語句</th>
+          <th>意味</th>
+          <th>性</th>
+          <th>備考</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>ме&#769;сто</td><td>場所</td><td>с</td><td></td></tr>
         <tr><td>до&#769;м</td><td>家</td><td>м</td><td></td></tr>
         <tr><td>кварти&#769;ра</td><td>アパート</td><td>ж</td><td>ロシアでは一軒家よりもアパートの方が一般的</td></tr>
+        <tr><td>библиоте&#769;ка</td><td>図書館</td><td>ж</td><td></td></tr>
+        <tr><td>го&#769;род</td><td>町・都市</td><td>м</td><td>複数形города&#769;</td></tr>
+        <tr><td>дере&#769;вня</td><td>村</td><td>ж</td><td></td></tr>
+        <tr><td>у&#769;лица</td><td>通り</td><td>ж</td><td></td></tr>
+        <tr><td>пло&#769;щадь</td><td>広場</td><td>ж</td><td>Красная площадь:赤の広場(世界遺産)</td></tr>
+        <tr><td>магази&#769;н</td><td>店</td><td>м</td><td></td></tr>
+        <tr><td>рестора&#769;н</td><td>レストラン</td><td>м</td><td></td></tr>
+        <tr><td>кафе&#769;</td><td>カフェ</td><td>с</td><td>変化しない</td></tr>
+        <tr><td>парк</td><td>公園</td><td>м</td><td></td></tr>
+        <tr><td>теа&#769;тр</td><td>劇場</td><td>м</td><td></td></tr>
+        <tr><td>музе&#769;й</td><td>博物館、美術館、記念館</td><td>м</td><td></td></tr>
+        <tr><td>вокза&#769;л</td><td>駅</td><td>м</td><td></td></tr>
+        <tr><td>апте&#769;ка</td><td>薬局</td><td>ж</td><td></td></tr>
+        <tr><td>больни&#769;ца</td><td>病院</td><td>ж</td><td></td></tr>
+        <tr><td>ры&#769;нок</td><td>市場</td><td>м</td><td></td></tr>
+        <tr><td>шко&#769;ла</td><td>学校</td><td>ж</td><td></td></tr>
+        <tr><td>универси&#769;тет</td><td>大学</td><td>м</td><td></td></tr>
+        <tr><td>доро&#769;га</td><td>道・道路</td><td>ж</td><td></td></tr>
+        <tr><td>о&#769;фис</td><td>オフィス</td><td>м</td><td></td></tr>
+        <tr><td>компа́ния</td><td>会社</td><td>女</td><td></td></tr>
+        <tr><td>страна́</td><td>国</td><td>女</td><td></td></tr>
+      </tbody>
+    </table>
+    <br>
+    <table class="center-table">
+      <caption>家の中の言葉</caption>
+      <thead>
+        <tr style="background-color:#f0f0f0;">
+          <th>語句</th>
+          <th>意味</th>
+          <th>性</th>
+          <th>備考</th>
+        </tr>
+      </thead>
+      <tbody>
         <tr><td>ко&#769;мната</td><td>部屋</td><td>ж</td><td></td></tr>
         <tr><td>дверь</td><td>ドア</td><td>ж</td><td>不規則な硬音/軟音注意</td></tr>
         <tr><td>окно&#769;</td><td>窓</td><td>с</td><td></td></tr>
@@ -235,106 +329,85 @@
         <tr><td>крова&#769;ть</td><td>ベッド</td><td>ж</td><td></td></tr>
         <tr><td>дива&#769;н</td><td>ソファー</td><td>м</td><td></td></tr>
         <tr><td>ла&#769;мпа</td><td>ランプ</td><td>ж</td><td></td></tr>
-
         <tr><td>шкаф</td><td>戸棚・タンス</td><td>м</td><td></td></tr>
         <tr><td>пол</td><td>床</td><td>м</td><td></td></tr>
         <tr><td>потоло&#769;к</td><td>天井</td><td>м</td><td></td></tr>
         <tr><td>стена&#769;</td><td>壁</td><td>ж</td><td></td></tr>
         <tr><td>часы&#769;</td><td>時計</td><td>мн</td><td>複数形で使う（単複同形扱い）</td></tr>
-
-        <tr><td>мать</td><td>母</td><td>ж</td><td></td></tr>
-        <tr><td>отец&#769;</td><td>父</td><td>м</td><td>不規則変化<br>一単生отца́</td></tr>
-        <tr><td>сын</td><td>息子</td><td>м</td><td></td></tr>
-        <tr><td>дочь</td><td>娘</td><td>ж</td><td></td></tr>
-        <tr><td>брат</td><td>兄／弟</td><td>м</td><td></td></tr>
-
-        <tr><td>сестра&#769;</td><td>姉／妹</td><td>ж</td><td></td></tr>
-        <tr><td>подру&#769;га</td><td>女友達、彼女</td><td>ж</td><td></td></tr>
-        <tr><td>студе&#769;нт</td><td>学生（男）</td><td>м</td><td></td></tr>
-        <tr><td>студе&#769;нтка</td><td>学生（女）</td><td>ж</td><td></td></tr>
-
-        <tr><td>шко&#769;ла</td><td>学校</td><td>ж</td><td></td></tr>
-        <tr><td>универси&#769;тет</td><td>大学</td><td>м</td><td></td></tr>
-        <tr><td>уро&#769;к</td><td>授業</td><td>м</td><td></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="text-box">
+    <h2>天気</h2>
+    <table class="center-table">
+      <thead>
+        <tr style="background-color:#f0f0f0;">
+          <th>語句</th>
+          <th>意味</th>
+          <th>性</th>
+          <th>備考</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>со&#769;лнце</td><td>太陽</td><td>с</td><td>л発音しない</td></tr>
+        <tr><td>не&#769;бо</td><td>空</td><td>с</td><td></td></tr>
+        <tr><td>дождь</td><td>雨</td><td>м</td><td></td></tr>
+        <tr><td>снег</td><td>雪</td><td>м</td><td></td></tr>
+        <tr><td>воздух</td><td>空気</td><td>м</td><td></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="text-box">
+    <table class="center-table">
+      <caption>物・雑貨</caption>
+      <thead>
+        <tr style="background-color:#f0f0f0;">
+          <th>語句</th>
+          <th>意味</th>
+          <th>性</th>
+          <th>備考</th>
+        </tr>
+      </thead>
+      <tbody>
         <tr><td>кни&#769;га</td><td>本</td><td>ж</td><td></td></tr>
         <tr><td>тетра&#769;дь</td><td>ノート</td><td>ж</td><td></td></tr>
-
         <tr><td>ру&#769;чка</td><td>ペン</td><td>ж</td><td></td></tr>
         <tr><td>каранда&#769;ш</td><td>鉛筆</td><td>м</td><td>シャーペンは鉛筆とみなす</td></tr>
-        <tr><td>бума&#769;га</td><td>紙</td><td>ж</td><td>不可算名詞扱い</td></tr>
-        <tr><td>учи&#769;тель</td><td>先生（男）</td><td>м</td><td></td></tr>
-        <tr><td>учи&#769;тельница</td><td>先生（女）</td><td>ж</td><td></td></tr>
-
-        <tr><td>работа</td><td>仕事</td><td>ж</td><td>不可算/可算両用</td></tr>
-        <tr><td>офис</td><td>オフィス</td><td>м</td><td>職場語</td></tr>
-        <tr><td>компьютер</td><td>コンピュータ</td><td>м</td><td>借用語</td></tr>
-        <tr><td>телефон</td><td>電話</td><td>м</td><td>通信語</td></tr>
-        <tr><td>библиотека</td><td>図書館</td><td>ж</td><td>場所語</td></tr>
-
-        <tr><td>еда</td><td>食べ物</td><td>ж</td><td>不可算名詞</td></tr>
-        <tr><td>хлеб</td><td>パン</td><td>м</td><td>主食語</td></tr>
-        <tr><td>суп</td><td>スープ</td><td>м</td><td>料理名</td></tr>
-        <tr><td>мясо</td><td>肉</td><td>с</td><td>中性、不可算</td></tr>
-        <tr><td>рыба</td><td>魚</td><td>ж</td><td>食品語</td></tr>
-
-        <tr><td>яйцо</td><td>卵</td><td>с</td><td>中性名詞</td></tr>
-        <tr><td>молоко</td><td>牛乳</td><td>с</td><td>飲料語</td></tr>
-        <tr><td>вода</td><td>水</td><td>ж</td><td>不可算名詞</td></tr>
-        <tr><td>чай</td><td>お茶</td><td>м</td><td>飲料語</td></tr>
-        <tr><td>кофе</td><td>コーヒー</td><td>м</td><td>借用語（性は通常 м）</td></tr>
-
-        <tr><td>яблоко</td><td>りんご</td><td>с</td><td>果物語</td></tr>
-        <tr><td>банан</td><td>バナナ</td><td>м</td><td>果物語</td></tr>
-        <tr><td>овощ</td><td>野菜</td><td>м</td><td>可算名詞</td></tr>
-        <tr><td>фрукт</td><td>果物</td><td>м</td><td>可算名詞</td></tr>
-        <tr><td>сахар</td><td>砂糖</td><td>м</td><td>不可算名詞</td></tr>
-
-        <tr><td>город</td><td>町・都市</td><td>м</td><td>地名語</td></tr>
-        <tr><td>деревня</td><td>村</td><td>ж</td><td>地方語</td></tr>
-        <tr><td>улица</td><td>通り</td><td>ж</td><td>住所語</td></tr>
-        <tr><td>площадь</td><td>広場</td><td>ж</td><td>場所語</td></tr>
-        <tr><td>магазин</td><td>店</td><td>м</td><td>商業語</td></tr>
-
-        <tr><td>ресторан</td><td>レストラン</td><td>м</td><td>飲食店</td></tr>
-        <tr><td>кафе</td><td>カフェ</td><td>с</td><td>借用語（с）</td></tr>
-        <tr><td>парк</td><td>公園</td><td>м</td><td>屋外空間</td></tr>
-        <tr><td>театр</td><td>劇場</td><td>м</td><td>文化施設</td></tr>
-        <tr><td>музей</td><td>博物館</td><td>м</td><td>文化施設</td></tr>
-
-        <tr><td>вокзал</td><td>駅</td><td>м</td><td>交通語</td></tr>
-        <tr><td>аптека</td><td>薬局</td><td>ж</td><td>施設語</td></tr>
-        <tr><td>больница</td><td>病院</td><td>ж</td><td>医療語</td></tr>
-        <tr><td>рынок</td><td>市場</td><td>м</td><td>商業語</td></tr>
-        <tr><td>день</td><td>日・昼</td><td>м</td><td>時間語</td></tr>
-
-        <tr><td>ночь</td><td>夜</td><td>ж</td><td>時間語</td></tr>
-        <tr><td>утро</td><td>朝</td><td>с</td><td>時間語</td></tr>
-        <tr><td>вечер</td><td>夕方</td><td>м</td><td>時間語</td></tr>
-        <tr><td>неделя</td><td>週</td><td>ж</td><td>時間語</td></tr>
-        <tr><td>месяц</td><td>月（期間）</td><td>м</td><td>時間語</td></tr>
-
-        <tr><td>год</td><td>年</td><td>м</td><td>時間語</td></tr>
-        <tr><td>время</td><td>時間</td><td>с</td><td>不規則変化あり</td></tr>
-        <tr><td>солнце</td><td>太陽</td><td>с</td><td>自然語</td></tr>
-        <tr><td>небо</td><td>空</td><td>с</td><td>自然語</td></tr>
-        <tr><td>дождь</td><td>雨</td><td>м</td><td>気象語</td></tr>
-
-        <tr><td>снег</td><td>雪</td><td>м</td><td>気象語</td></tr>
-        <tr><td>воздух</td><td>空気</td><td>м</td><td>自然語</td></tr>
-        <tr><td>мир</td><td>世界・平和</td><td>м</td><td>抽象名詞</td></tr>
-        <tr><td>язык</td><td>言語・舌</td><td>м</td><td>語彙学習で重要</td></tr>
-        <tr><td>машина</td><td>車</td><td>ж</td><td>日常語</td></tr>
-
-        <tr><td>дорога</td><td>道・道路</td><td>ж</td><td>移動語</td></tr>
-        <tr><td>деньги</td><td>お金</td><td>мн</td><td>複数形で使う</td></tr>
-        <tr><td>паспорт</td><td>パスポート</td><td>м</td><td>身分証明語</td></tr>
-        <tr><td>билет</td><td>切符・券</td><td>м</td><td>旅行語</td></tr>
-        <tr><td>одежда</td><td>服</td><td>ж</td><td>集合名詞的</td></tr>
-
-        <tr><td>обувь</td><td>靴</td><td>ж</td><td>集合名詞的</td></tr>
-        <tr><td>здоровье</td><td>健康</td><td>с</td><td>抽象名詞</td></tr>
-        <tr><td>письмо</td><td>手紙</td><td>с</td><td>文書語</td></tr>
-        <tr><td>место</td><td>場所</td><td>с</td><td>位置語</td></tr>
+        <tr><td>бума&#769;га</td><td>紙</td><td>ж</td><td>不可算</td></tr>
+        <tr><td>рабо&#769;та</td><td>仕事</td><td>ж</td><td></td></tr>
+        <tr><td>компью&#769;тер</td><td>コンピュータ、パソコン</td><td>м</td><td></td></tr>
+        <tr><td>телефо&#769;н</td><td>電話、電話機</td><td>м</td><td></td></tr>
+        <tr><td>маши&#769;на</td><td>車</td><td>ж</td><td></td></tr>
+        <tr><td>де&#769;ньги</td><td>お金</td><td>мн</td><td>複数形で使う</td></tr>
+        <tr><td>па&#769;спорт</td><td>パスポート</td><td>м</td><td></td></tr>
+        <tr><td>биле&#769;т</td><td>切符・券</td><td>м</td><td></td></tr>
+        <tr><td>оде&#769;жда</td><td>服</td><td>ж</td><td>集合名詞</td></tr>
+        <tr><td>о&#769;бувь</td><td>靴</td><td>ж</td><td></td></tr>
+        <tr><td>письмо&#769;</td><td>手紙</td><td>с</td><td></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="text-box">
+    <table class="center-table">
+      <caption>その他</caption>
+      <thead>
+        <tr style="background-color:#f0f0f0;">
+          <th>語句</th>
+          <th>意味</th>
+          <th>性</th>
+          <th>備考</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>уро&#769;к</td><td>授業</td><td>м</td><td></td></tr>
+        <tr><td>вопрос</td><td>質問・問題</td><td>м</td><td></td></tr>
+        <tr><td>отве&#769;т</td><td>答え</td><td>м</td><td></td></tr>
+        <tr><td>пра&#769;вда</td><td>真実</td><td>ж</td><td></td></tr>
+        <tr><td>ло&#769;жь</td><td>嘘</td><td>ж</td><td></td></tr>
+        <tr><td>си&#769;ла</td><td>力・勢力</td><td>ж</td><td></td></tr>
+        <tr><td>мир</td><td>世界・平和</td><td>м</td><td></td></tr>
+        <tr><td>язы&#769;к</td><td>言語・舌</td><td>м</td><td></td></tr>
+        <tr><td>здоро&#769;вье</td><td>健康</td><td>с</td><td></td></tr>
       </tbody>
     </table>
   </div>
@@ -346,29 +419,6 @@
         <th>性</th>
         <th>備考</th>
       </tr>
-      <tr><td>до́м</td><td>家</td><td>男</td><td>生活や建物を指す基本語</td></tr>
-      <tr><td>шко́ла</td><td>学校</td><td>女</td><td>教育関連</td></tr>
-      <tr><td>студе́нт</td><td>学生（男）</td><td>男</td><td></td></tr>
-      <tr><td>студе́нтка</td><td>学生（女）</td><td>女</td><td></td></tr>
-      <tr><td>учи́тель</td><td>先生（男）</td><td>男</td><td></td></tr>
-      <tr><td>учите́льница</td><td>先生（女）</td><td>女</td><td></td></tr>
-      <tr><td>друг</td><td>友達（男）</td><td>男</td><td>複数形：друзья́</td></tr>
-      <tr><td>подру́га</td><td>友達（女）</td><td>女</td><td></td></tr>
-      <tr><td>го́род</td><td>都市</td><td>男</td><td></td></tr>
-      <tr><td>страна́</td><td>国</td><td>女</td><td></td></tr>
-      <tr><td>ме́сто</td><td>場所</td><td>中</td><td></td></tr>
-      <tr><td>ули́ца</td><td>通り</td><td>女</td><td></td></tr>
-      <tr><td>кафе́</td><td>カフェ</td><td>中（不変化）</td><td></td></tr>
-      <tr><td>ресторан́</td><td>レストラン</td><td>男</td><td></td></tr>
-      <tr><td>магаз́ин</td><td>店</td><td>男</td><td></td></tr>
-      <tr><td>день</td><td>日・昼</td><td>男</td><td></td></tr>
-      <tr><td>но́чь</td><td>夜</td><td>女</td><td></td></tr>
-      <tr><td>у́тро</td><td>朝</td><td>中</td><td></td></tr>
-      <tr><td>ве́чер</td><td>夕方</td><td>男</td><td></td></tr>
-      <tr><td>вре́мя</td><td>時間</td><td>中（不規則）</td><td>複数：времена́</td></tr>
-      <tr><td>деньги</td><td>お金</td><td>複数</td><td>単数なし</td></tr>
-      <tr><td>рабо́та</td><td>仕事</td><td>女</td><td></td></tr>
-      <tr><td>компа́ния</td><td>会社</td><td>女</td><td></td></tr>
       <tr><td>па́рень</td><td>若者・彼氏</td><td>男</td><td></td></tr>
       <tr><td>де́вушка</td><td>女の子・彼女</td><td>女</td><td></td></tr>
       <tr><td>мужчи́на</td><td>男性</td><td>男</td><td></td></tr>
