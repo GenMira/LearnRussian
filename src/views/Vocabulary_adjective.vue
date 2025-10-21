@@ -14,7 +14,7 @@
     <table class="center-table">
       <caption><b>ロシア語の形容詞一覧</b></caption>
       <thead>
-        <tr>
+        <tr style="background-color:#f0f0f0;">
           <th>語句</th>
           <th>意味</th>
           <th>備考</th>

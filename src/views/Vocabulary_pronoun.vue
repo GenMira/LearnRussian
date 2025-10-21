@@ -11,7 +11,7 @@
 <div class="text-box">
   <table class="center-table">
     <thead>
-      <tr>
+      <tr style="background-color:#f0f0f0;">
         <th>種類</th>
         <th>語句</th>
         <th>日本語の意味</th>
