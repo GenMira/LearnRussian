@@ -9,58 +9,6 @@
     <br>
   </div>
   <div class="text-box">
-    <h2>よく使う</h2>
-    <br>
-    <table class="center-table">
-      <thead>
-        <tr style="background-color:#f0f0f0;">
-          <th>語句</th>
-          <th>意味</th>
-          <th>性</th>
-          <th>備考</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>и&#769;мя</td>
-          <td>名前</td>
-          <td>中</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>го&#769;род</td>
-          <td>都市</td>
-          <td>男</td>
-          <td>複: города&#769;</td>
-        </tr>
-        <tr>
-          <td>страна&#769;</td>
-          <td>国</td>
-          <td>女</td>
-          <td>複: страны</td>
-        </tr>
-        <tr>
-          <td>язы&#769;к</td>
-          <td>言語</td>
-          <td>男</td>
-          <td>複: языки</td>
-        </tr>
-        <tr>
-          <td>вре&#769;мя</td>
-          <td>時間</td>
-          <td>中</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>день</td>
-          <td>日</td>
-          <td>男</td>
-          <td>複: дни</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div class="text-box">
     <h2>生き物を表す言葉</h2>
     <br>
     <table class="center-table">
@@ -209,6 +157,9 @@
 
       <tr><td>год</td><td>年</td><td>м</td><td></td></tr>
       <tr><td>вре&#769;мя</td><td>時間</td><td>с</td><td></td></tr>
+      <tr><td>час</td><td>○時</td><td>男</td><td></td></tr>
+      <tr><td>мину&#769;та</td><td>分</td><td>ж</td><td></td></tr>
+      <tr><td>секу&#769;нда</td><td>秒</td><td>ж</td><td></td></tr>
     </table>
     <br>
     <table class="center-table">
@@ -416,6 +367,7 @@
         </tr>
       </thead>
       <tbody>
+        <tr><td>вещь</td><td>物</td><td>女</td><td></td></tr>
         <tr><td>тетра&#769;дь</td><td>ノート</td><td>ж</td><td></td></tr>
         <tr><td>ру&#769;чка</td><td>ペン</td><td>ж</td><td></td></tr>
         <tr><td>каранда&#769;ш</td><td>鉛筆</td><td>м</td><td>シャーペンは鉛筆とみなす</td></tr>
@@ -424,8 +376,10 @@
         <tr><td>газе́та</td><td>新聞</td><td>女</td><td></td></tr>
         <tr><td>журна́л</td><td>雑誌</td><td>男</td><td></td></tr>
         <tr><td>рабо&#769;та</td><td>仕事</td><td>ж</td><td></td></tr>
-        <tr><td>компью&#769;тер</td><td>コンピュータ、パソコン</td><td>м</td><td></td></tr>
         <tr><td>телефо&#769;н</td><td>電話、電話機</td><td>м</td><td></td></tr>
+        <tr><td>фото́графия</td><td>写真</td><td>女</td><td></td></tr>
+        <tr><td>интерне́т</td><td>インターネット</td><td>男</td><td></td></tr>
+        <tr><td>компью&#769;тер</td><td>コンピュータ、パソコン</td><td>м</td><td></td></tr>
         <tr><td>маши&#769;на</td><td>車</td><td>ж</td><td></td></tr>
         <tr><td>де&#769;ньги</td><td>お金</td><td>мн</td><td>複数形で使う</td></tr>
         <tr><td>па&#769;спорт</td><td>パスポート</td><td>м</td><td></td></tr>
@@ -452,6 +406,9 @@
         </tr>
       </thead>
       <tbody>
+        <tr><td>де́ло</td><td>こと・用事</td><td>中</td><td>cf.де&#769;лать</td></tr>
+        <tr><td>жизнь</td><td>人生・生活</td><td>女</td><td>cf.жить</td></tr>
+        <tr><td>и&#769;мя</td><td>名前</td><td>中</td><td></td></tr>
         <tr><td>уро&#769;к</td><td>授業</td><td>м</td><td></td></tr>
         <tr><td>вопрос</td><td>質問・問題</td><td>м</td><td></td></tr>
         <tr><td>отве&#769;т</td><td>答え</td><td>м</td><td></td></tr>
@@ -461,45 +418,14 @@
         <tr><td>мир</td><td>世界・平和</td><td>м</td><td></td></tr>
         <tr><td>язы&#769;к</td><td>言語・舌</td><td>м</td><td></td></tr>
         <tr><td>здоро&#769;вье</td><td>健康</td><td>с</td><td></td></tr>
+        <tr><td>сло́во</td><td>言葉</td><td>中</td><td></td></tr>
+        <tr><td>музы́ка</td><td>音楽</td><td>女</td><td></td></tr>
+        <tr><td>пе́сня</td><td>歌</td><td>女</td><td></td></tr>
+        <tr><td>кино́</td><td>映画</td><td>中（不変化）</td><td></td></tr>
+        <tr><td>фильм</td><td>映画（作品）</td><td>男</td><td></td></tr>
+        <tr><td>спорт</td><td>スポーツ</td><td>男</td><td></td></tr>
+        <tr><td>игра́</td><td>ゲーム・試合</td><td>女</td><td></td></tr>
       </tbody>
-    </table>
-  </div>
-  <div class="text-box">
-    <table class="center-table">
-      <tr style="background-color:#f0f0f0;">
-        <th>語句（アクセント付き）</th>
-        <th>意味</th>
-        <th>性</th>
-        <th>備考</th>
-      </tr>
-
-      <tr><td>фото́графия</td><td>写真</td><td>女</td><td></td></tr>
-      <tr><td>телефо́н</td><td>電話</td><td>男</td><td></td></tr>
-      <tr><td>компью́тер</td><td>コンピュータ</td><td>男</td><td></td></tr>
-      <tr><td>интерне́т</td><td>インターネット</td><td>男</td><td></td></tr>
-      <tr><td>письмо́</td><td>手紙</td><td>中</td><td></td></tr>
-      <tr><td>вопрос́</td><td>質問</td><td>男</td><td></td></tr>
-      <tr><td>отве́т</td><td>答え</td><td>男</td><td></td></tr>
-      <tr><td>сло́во</td><td>言葉</td><td>中</td><td></td></tr>
-      <tr><td>язы́к</td><td>言語／舌</td><td>男</td><td></td></tr>
-      <tr><td>музы́ка</td><td>音楽</td><td>女</td><td></td></tr>
-      <tr><td>пе́сня</td><td>歌</td><td>女</td><td></td></tr>
-      <tr><td>кино́</td><td>映画</td><td>中（不変化）</td><td></td></tr>
-      <tr><td>фильм</td><td>映画（作品）</td><td>男</td><td></td></tr>
-      <tr><td>спорт</td><td>スポーツ</td><td>男</td><td></td></tr>
-      <tr><td>игра́</td><td>ゲーム・試合</td><td>女</td><td></td></tr>
-      <tr><td>ме́сяц</td><td>月（暦）</td><td>男</td><td></td></tr>
-      <tr><td>год</td><td>年</td><td>男</td><td>複数：годы́／ле́та</td></tr>
-      <tr><td>неде́ля</td><td>週</td><td>女</td><td></td></tr>
-      <tr><td>час</td><td>時間</td><td>男</td><td></td></tr>
-      <tr><td>мину́та</td><td>分</td><td>女</td><td></td></tr>
-      <tr><td>секунда</td><td>秒</td><td>女</td><td></td></tr>
-      <tr><td>вещь</td><td>物</td><td>女</td><td></td></tr>
-      <tr><td>де́ло</td><td>こと・用事</td><td>中</td><td></td></tr>
-      <tr><td>вре́мя</td><td>時・時間</td><td>中</td><td>不規則変化</td></tr>
-      <tr><td>жизнь</td><td>人生・生活</td><td>女</td><td></td></tr>
-      <tr><td>лю́ди</td><td>人々</td><td>複数</td><td>単数：челове́к</td></tr>
-      <tr><td>челове́к</td><td>人</td><td>男</td><td></td></tr>
     </table>
   </div>
 </template>
